@@ -16,17 +16,9 @@
         ]
       },
       {
-        "region": "na_warm",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
         "region": "na_west_coast",
         "months": [
+          7,
           8,
           9,
           10,
@@ -36,173 +28,7 @@
       {
         "region": "eu_northern",
         "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should have rich, vibrant color with no bruises or soft brown spots. Slight variations in color are normal.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be very firm with no soft or mushy areas. A ripe apple won't give when you press it.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "Pick it up — it should feel heavy for its size, which indicates juiciness.",
-        "sfSymbol": "scalemass.fill"
-      },
-      {
-        "title": "Smell",
-        "description": "A ripe apple has a pleasant, mildly sweet fragrance near the stem end.",
-        "sfSymbol": "nose.fill"
-      }
-    ],
-    "funFact": "There are over 7,500 varieties of apples grown worldwide, but only about 100 are commercially grown in the United States.",
-    "storageTip": "Store in the fridge crisper drawer for up to 6 weeks. Keep them away from other produce, as apples release ethylene gas that speeds ripening."
-  },
-  {
-    "id": "strawberry",
-    "name": "Strawberry",
-    "category": "fruit",
-    "emoji": "🍓",
-    "colorHex": "#C0392B",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          12,
           1,
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
           9,
           10,
           11,
@@ -210,17 +36,24 @@
         ]
       },
       {
-        "region": "ap_south",
+        "region": "eu_mediterranean",
         "months": [
-          11,
-          12,
-          1,
-          2,
-          3
+          9,
+          10,
+          11
         ]
       },
       {
-        "region": "ap_australasia",
+        "region": "eu_central",
+        "months": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_east",
         "months": [
           10,
           11,
@@ -229,390 +62,106 @@
         ]
       },
       {
-        "region": "la_tropical",
+        "region": "ap_australasia",
         "months": [
-          1,
-          2,
           3,
           4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
+          5
         ]
       },
       {
         "region": "la_temperate",
         "months": [
-          10,
-          11,
-          12
+          3,
+          4,
+          5
         ]
       },
       {
-        "region": "af_north",
+        "region": "af_south",
         "months": [
           3,
           4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          9,
-          10,
-          11,
-          12
+          5
         ]
       }
     ],
     "ripenessTips": [
       {
         "title": "Look",
-        "description": "Should be uniformly bright red from top to bottom. Avoid berries with white or green tips — they won’t ripen further after picking.",
+        "description": "Skin should be vibrant and free of bruises or wrinkles. A slight sheen indicates freshness.",
         "sfSymbol": "eye.fill"
       },
       {
+        "title": "Feel",
+        "description": "Should feel firm and heavy for its size. Soft spots mean it is past its peak.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
         "title": "Smell",
-        "description": "Ripe strawberries have an unmistakable sweet, fragrant aroma. No scent usually means no flavor.",
+        "description": "A sweet, fruity aroma near the stem end indicates ripeness. No smell often means it was picked too early.",
         "sfSymbol": "nose.fill"
       },
       {
-        "title": "Check the Leaves",
-        "description": "The green cap should be fresh and bright, not wilted or dried out. Berries with intact caps last longer.",
+        "title": "Check stem",
+        "description": "The stem should be intact. A missing stem lets air in and speeds spoilage.",
         "sfSymbol": "leaf.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be firm but not hard, with a slight give. Mushy berries are overripe and will spoil quickly.",
-        "sfSymbol": "hand.raised.fill"
       }
     ],
-    "funFact": "Strawberries are the only fruit with seeds on the outside, averaging about 200 seeds per berry.",
-    "storageTip": "Store unwashed in a single layer in the fridge for 3–5 days. Wash only right before eating to prevent mold."
+    "funFact": "There are over 7,500 apple varieties grown worldwide, though most grocery stores carry only about 5 to 10.",
+    "storageTip": "Store in the crisper drawer of the refrigerator for up to 6 weeks. Keep away from other produce, as apples release ethylene gas that speeds ripening."
   },
   {
-    "id": "blueberry",
-    "name": "Blueberry",
-    "category": "fruit",
-    "emoji": "🫐",
-    "colorHex": "#2E4057",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          11,
-          12,
-          1
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should be deep blue-purple with a dusty, silvery-white bloom on the surface. That bloom is natural and a sign of freshness.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be plump and firm, springing back slightly when gently squeezed. Soft, wrinkled berries are past their prime.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Container",
-        "description": "Shake the container gently — ripe berries should move freely. If they clump together, they may be crushed or moldy underneath.",
-        "sfSymbol": "eye.fill"
-      }
-    ],
-    "funFact": "Blueberries are one of the only natural foods that are truly blue in color, thanks to the pigment anthocyanin.",
-    "storageTip": "Store unwashed in their original container in the fridge for up to 10 days. Rinse just before eating."
-  },
-  {
-    "id": "peach",
-    "name": "Peach",
+    "id": "apricot",
+    "name": "Apricot",
     "category": "fruit",
     "emoji": "🍑",
-    "colorHex": "#F39C12",
+    "colorHex": "#F4A460",
     "seasons": [
       {
         "region": "na_temperate",
         "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
           6,
           7,
-          8,
-          9
+          8
         ]
       },
       {
         "region": "na_west_coast",
         "months": [
+          5,
           6,
           7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          7,
-          8,
-          9
+          8
         ]
       },
       {
         "region": "eu_mediterranean",
         "months": [
+          5,
           6,
           7,
-          8,
-          9
+          8
         ]
       },
       {
         "region": "eu_central",
         "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
           6,
           7,
           8
         ]
       },
       {
-        "region": "ap_south",
+        "region": "ap_east",
         "months": [
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          12,
-          1,
-          2,
-          3
+          6,
+          7
         ]
       },
       {
         "region": "af_north",
         "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          11,
-          12,
-          1,
-          2
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Smell",
-        "description": "A ripe peach has a strong, sweet, floral fragrance at the stem end. If it doesn’t smell like anything, it won’t taste like much either.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should yield slightly to gentle pressure, like a tennis ball. If rock-hard, leave it on the counter to ripen for a day or two.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Look",
-        "description": "Look for a creamy or golden background color, not green. The red blush doesn’t indicate ripeness — it’s just where the sun hit.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "The area around the stem should be slightly soft and fragrant. A hard, green stem area means it needs more time.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Peaches are a member of the rose family, which is why their blossoms look and smell so similar to wild roses.",
-    "storageTip": "Ripen on the counter at room temperature stem-side down. Once ripe, refrigerate for up to 5 days."
-  },
-  {
-    "id": "watermelon",
-    "name": "Watermelon",
-    "category": "fruit",
-    "emoji": "🍉",
-    "colorHex": "#27AE60",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          3,
-          4,
           5,
           6,
           7
@@ -623,165 +172,7 @@
         "months": [
           12,
           1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Tap It",
-        "description": "Knock on the watermelon — a ripe one produces a deep, hollow sound. An unripe melon sounds more metallic and high-pitched.",
-        "sfSymbol": "ear.fill"
-      },
-      {
-        "title": "Check the Field Spot",
-        "description": "Flip it over and look at the spot where it rested on the ground. A creamy yellow spot means it ripened in the sun; a white spot means it was picked too early.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "A ripe watermelon should feel surprisingly heavy for its size — it’s 92% water when fully ripe.",
-        "sfSymbol": "scalemass.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "The rind should be firm and resist scratching with a fingernail. A dull (not shiny) surface often indicates ripeness.",
-        "sfSymbol": "hand.raised.fill"
-      }
-    ],
-    "funFact": "Watermelon is both a fruit and a vegetable — it’s related to cucumbers, pumpkins, and squash.",
-    "storageTip": "Store whole at room temperature for up to 2 weeks. Once cut, wrap tightly and refrigerate for up to 5 days."
-  },
-  {
-    "id": "mango",
-    "name": "Mango",
-    "category": "fruit",
-    "emoji": "🥭",
-    "colorHex": "#F1C40F",
-    "seasons": [
-      {
-        "region": "na_warm",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          5,
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          11,
-          12,
-          1,
           2
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7
         ]
       },
       {
@@ -793,1004 +184,44 @@
         ]
       },
       {
-        "region": "af_north",
+        "region": "af_south",
         "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          11,
           12,
           1,
-          2,
-          3
+          2
         ]
       }
     ],
     "ripenessTips": [
       {
-        "title": "Smell",
-        "description": "Sniff near the stem end — a ripe mango has a sweet, fruity, almost floral aroma. No scent means it’s not ready yet.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Gently squeeze — it should give slightly, like a ripe avocado. Rock-hard mangoes need several days on the counter.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
         "title": "Look",
-        "description": "Color varies by variety, so don’t rely on red blush. Look for plump, rounded shape and smooth, taut skin without wrinkles.",
+        "description": "Should be uniformly golden-orange with no green patches. A slight blush of red is fine.",
         "sfSymbol": "eye.fill"
       },
       {
-        "title": "Heft",
-        "description": "A ripe mango feels heavy for its size, which indicates high juice and sugar content.",
-        "sfSymbol": "scalemass.fill"
-      }
-    ],
-    "funFact": "Mangoes are the most consumed fruit in the world, with over 400 varieties grown across tropical regions.",
-    "storageTip": "Ripen at room temperature until fragrant and slightly soft. Once ripe, refrigerate for up to 5 days."
-  },
-  {
-    "id": "orange",
-    "name": "Orange",
-    "category": "fruit",
-    "emoji": "🍊",
-    "colorHex": "#E67E22",
-    "seasons": [
-      {
-        "region": "na_warm",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Heft",
-        "description": "Pick it up — a ripe orange is heavy for its size, which means it’s full of juice. Compare a few to find the heaviest.",
-        "sfSymbol": "scalemass.fill"
-      },
-      {
         "title": "Feel",
-        "description": "Should be firm but yield very slightly to pressure. The skin should feel smooth and thin rather than thick and puffy.",
+        "description": "Gently press the fruit: it should give slightly but not feel mushy. Too firm means it is underripe.",
         "sfSymbol": "hand.raised.fill"
       },
       {
         "title": "Smell",
-        "description": "A ripe orange has a bright citrus scent even through the peel. Stronger fragrance means more flavor.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Look",
-        "description": "Skin color doesn’t always indicate ripeness — some ripe oranges have green patches. Focus on firmness and weight instead.",
-        "sfSymbol": "eye.fill"
-      }
-    ],
-    "funFact": "The color orange was actually named after the fruit, not the other way around — before that, English speakers called it “geoluhread” (yellow-red).",
-    "storageTip": "Store at room temperature for about a week, or refrigerate for up to 3 weeks. They juice best at room temperature."
-  },
-  {
-    "id": "cherry",
-    "name": "Cherry",
-    "category": "fruit",
-    "emoji": "🍒",
-    "colorHex": "#922B21",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          11,
-          12,
-          1
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          11,
-          12,
-          1
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          5,
-          6,
-          7
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should be deep, glossy, and dark — the darker the cherry, the sweeter the flavor. Avoid dull, shriveled, or leaking fruit.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be firm and plump, not soft or mushy. Gently squeeze one — it should resist slightly.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "Fresh cherries have green, flexible stems firmly attached. Brown or brittle stems mean they’ve been sitting too long.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "It takes about 250 cherries to make a single cherry pie, and a mature cherry tree can produce enough for 28 pies in one season.",
-    "storageTip": "Store unwashed with stems attached in the fridge for up to a week. Cherries don’t ripen after picking, so eat them at peak freshness."
-  },
-  {
-    "id": "grape",
-    "name": "Grape",
-    "category": "fruit",
-    "emoji": "🍇",
-    "colorHex": "#6C3483",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should be plump and firmly attached to green, flexible stems. A dusty white bloom on the skin is a good sign of freshness.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be firm and snap when you bite in. Wrinkled or soft grapes are past their prime.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "The stem should be green and pliable, not brown and brittle. Give the bunch a gentle shake — a few falling off is fine, but many means they’re old.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "A single grapevine can produce enough fruit to make about 10 bottles of wine per year, and some vines live for over 100 years.",
-    "storageTip": "Store unwashed in a ventilated bag in the fridge for up to 2 weeks. Wash just before eating for the best texture."
-  },
-  {
-    "id": "pear",
-    "name": "Pear",
-    "category": "fruit",
-    "emoji": "🍐",
-    "colorHex": "#82B541",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Check the Neck",
-        "description": "Press gently near the stem (the neck). If it yields slightly, it’s ripe. Pears ripen from the inside out, so the neck ripens first.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Look",
-        "description": "Color change varies by variety — Bartletts turn yellow, but Bosc and Anjou stay their original color. Don’t rely on color alone.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Smell",
-        "description": "A ripe pear has a subtle, sweet fragrance near the stem. Strong perfume means it’s very ripe and should be eaten immediately.",
+        "description": "Ripe apricots have a sweet, floral fragrance. If there is no scent, they are not ready.",
         "sfSymbol": "nose.fill"
       }
     ],
-    "funFact": "Pears are one of the few fruits that ripen better off the tree — if left on the branch, they develop gritty stone cells and mealy texture.",
-    "storageTip": "Buy firm and ripen at room temperature for 2–5 days. Once the neck yields to gentle pressure, refrigerate and eat within 3 days."
-  },
-  {
-    "id": "banana",
-    "name": "Banana",
-    "category": "fruit",
-    "emoji": "🍌",
-    "colorHex": "#F4D03F",
-    "seasons": [
-      {
-        "region": "na_warm",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Bright yellow with a few small brown speckles means peak sweetness. Green tips mean it needs another day or two to ripen.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be firm but not hard. The peel should come away easily without tearing the flesh when you open it.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "Look at where individual bananas connect to the bunch. A bright yellow stem with no dark spots means freshly ripe.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Bananas are technically berries, while strawberries are not — botanically, a berry must come from a single ovary flower.",
-    "storageTip": "Keep at room temperature until ripe. To slow ripening, separate them and wrap each stem in plastic wrap. Refrigerate ripe bananas — the peel darkens but the fruit stays good for several days."
-  },
-  {
-    "id": "pineapple",
-    "name": "Pineapple",
-    "category": "fruit",
-    "emoji": "🍍",
-    "colorHex": "#D4AC0D",
-    "seasons": [
-      {
-        "region": "na_warm",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Smell",
-        "description": "Sniff the base — a ripe pineapple has a strong, sweet, tropical aroma. No scent means it was picked too early; a fermented smell means it’s overripe.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Look",
-        "description": "The shell should be golden-yellow from the base upward. More yellow means more ripe. Avoid ones that are entirely green or have dark, soft spots.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Pull a Leaf",
-        "description": "Tug gently on a center leaf from the crown. If it slides out easily, the pineapple is ripe. If it holds tight, it needs more time.",
-        "sfSymbol": "leaf.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "Should feel heavy for its size, indicating it’s juicy and ripe inside.",
-        "sfSymbol": "scalemass.fill"
-      }
-    ],
-    "funFact": "A pineapple is not a single fruit but a cluster of up to 200 individual fruitlets fused together around a central core.",
-    "storageTip": "Store whole at room temperature for 1–2 days. Once cut, refrigerate in an airtight container for up to 5 days. Pineapples do not ripen further after harvest."
+    "funFact": "Apricots were cultivated in China over 4,000 years ago before traveling along the Silk Road to the Mediterranean.",
+    "storageTip": "Ripen at room temperature stem-side down, then refrigerate for up to 5 days. Do not wash until ready to eat."
   },
   {
     "id": "avocado",
     "name": "Avocado",
     "category": "fruit",
     "emoji": "🥑",
-    "colorHex": "#1E8449",
+    "colorHex": "#568203",
     "seasons": [
       {
         "region": "na_warm",
         "months": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Feel",
-        "description": "Cradle it in your palm and squeeze gently. A ripe avocado yields to firm, gentle pressure but doesn’t feel mushy. Press with your whole hand to avoid bruising.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Look",
-        "description": "Hass avocados darken from green to nearly black when ripe. Other varieties stay green, so rely on feel instead of color for those.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Check Under the Stem",
-        "description": "Flick off the small stem cap. If it pops off easily and you see bright green underneath, it’s ripe. Brown underneath means it’s overripe.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Avocados never ripen on the tree — farmers can leave them hanging for months as a form of natural storage until they’re ready to harvest.",
-    "storageTip": "Ripen at room temperature for 3–5 days. To speed it up, place in a paper bag with a banana. Refrigerate ripe avocados for up to 3 days."
-  },
-  {
-    "id": "tomato",
-    "name": "Tomato",
-    "category": "vegetable",
-    "emoji": "🍅",
-    "colorHex": "#E74C3C",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          4,
-          5,
           6,
           7,
           8,
@@ -1802,17 +233,9 @@
       {
         "region": "na_west_coast",
         "months": [
+          4,
           5,
           6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
           7,
           8,
           9
@@ -1821,33 +244,16 @@
       {
         "region": "eu_mediterranean",
         "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
         ]
       },
       {
-        "region": "eu_central",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_southeast",
+        "region": "la_tropical",
         "months": [
           1,
           2,
@@ -1865,482 +271,6 @@
       },
       {
         "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should be uniformly deep red (or the target color for the variety) with smooth, taut skin. Avoid cracks, blemishes, or green shoulders.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should yield slightly to gentle pressure but spring back. Too firm means underripe; too soft means mealy and overripe.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Smell",
-        "description": "Sniff the stem end — a great tomato smells earthy, sweet, and distinctly “tomato-y.” No aroma usually means no flavor.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "A ripe tomato feels heavy for its size, which indicates lots of juice and developed sugars inside.",
-        "sfSymbol": "scalemass.fill"
-      }
-    ],
-    "funFact": "Tomatoes were once believed to be poisonous in Europe because wealthy people got sick eating them off lead-containing pewter plates.",
-    "storageTip": "Never refrigerate unripe tomatoes — cold kills their flavor and texture. Store stem-side down on the counter. Refrigerate only once fully ripe, and bring to room temperature before eating."
-  },
-  {
-    "id": "corn",
-    "name": "Corn",
-    "category": "vegetable",
-    "emoji": "🌽",
-    "colorHex": "#F9E400",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          2,
-          3,
-          4,
-          5
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Feel the Kernels",
-        "description": "Through the husk, feel for plump, firm, evenly spaced kernels all the way to the tip. Gaps or flat spots mean poor pollination.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Silk",
-        "description": "The silk (tassels) should be brown and slightly sticky, not dried out or black. Fresh silk means the corn was recently picked.",
-        "sfSymbol": "leaf.fill"
-      },
-      {
-        "title": "Look at the Husk",
-        "description": "The husk should be bright green, tightly wrapped, and slightly damp. Dry, yellowed husks mean the corn is old.",
-        "sfSymbol": "eye.fill"
-      }
-    ],
-    "funFact": "Corn always has an even number of rows on each ear, typically between 8 and 22 rows.",
-    "storageTip": "Eat as soon as possible — corn’s sugar starts converting to starch within hours of picking. Store unhusked in the fridge for up to 3 days."
-  },
-  {
-    "id": "zucchini",
-    "name": "Zucchini",
-    "category": "vegetable",
-    "emoji": "🥒",
-    "colorHex": "#2ECC71",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Choose small to medium zucchini (6–8 inches). The skin should be dark green, glossy, and free of nicks or soft spots. Bigger is not better — large ones are watery and seedy.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be firm along the entire length with no soft or spongy areas. The skin should resist a light scratch with your fingernail.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "A small stub of stem should still be attached. A freshly cut stem end means it was recently harvested.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "A single zucchini plant can produce 6 to 10 pounds of fruit over a growing season, which is why gardeners are famously eager to give them away.",
-    "storageTip": "Store unwashed in a perforated bag in the fridge crisper drawer for up to a week. Don’t seal it airtight — zucchini needs airflow to prevent mold."
-  },
-  {
-    "id": "broccoli",
-    "name": "Broccoli",
-    "category": "vegetable",
-    "emoji": "🥦",
-    "colorHex": "#196F3D",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          10,
-          11,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "eu_northern",
         "months": [
           8,
           9,
@@ -2349,624 +279,28 @@
         ]
       },
       {
-        "region": "eu_mediterranean",
+        "region": "af_south",
         "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          9,
-          10,
-          11,
           3,
           4,
-          5
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
           5,
           6,
           7,
           8
         ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "The floret clusters should be tight, compact, and dark green to deep blue-green. Yellow or open florets mean it’s past its prime.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "The stalks should be firm and rigid, snapping cleanly if bent. Limp, rubbery stalks mean the broccoli is old.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Smell",
-        "description": "Should have a fresh, mild vegetal scent. A strong, sulfurous, or sour smell means it’s starting to go bad.",
-        "sfSymbol": "nose.fill"
-      }
-    ],
-    "funFact": "Broccoli is a human invention — it was bred by Italian farmers from wild cabbage over 2,000 years ago through selective cultivation.",
-    "storageTip": "Store unwashed in a loose plastic bag in the fridge crisper drawer for up to 5 days. Don’t wash before storing — moisture promotes mold."
-  },
-  {
-    "id": "carrot",
-    "name": "Carrot",
-    "category": "vegetable",
-    "emoji": "🥕",
-    "colorHex": "#E67E22",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
       },
       {
         "region": "ap_australasia",
         "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should be a deep, vivid orange with smooth skin. Avoid carrots with cracks, splits, or green shoulders (which taste bitter).",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should be rock-firm and rigid — a fresh carrot snaps cleanly when bent. Bendy, rubbery carrots have lost their moisture.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Check the Greens",
-        "description": "If the tops are still attached, they should be bright green and perky, not wilted or slimy. Remove greens before storing — they sap moisture from the root.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Carrots were originally purple or white — the familiar orange variety was developed by Dutch growers in the 17th century.",
-    "storageTip": "Remove any green tops, then store in a sealed bag in the fridge crisper drawer for up to 3 weeks. Wrap in a damp paper towel to maintain crispness."
-  },
-  {
-    "id": "spinach",
-    "name": "Spinach",
-    "category": "vegetable",
-    "emoji": "🥬",
-    "colorHex": "#1D8348",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          3,
-          4,
-          5,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          4,
-          5,
-          6,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          3,
-          4,
-          5,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          5,
           6,
           7,
           8
         ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Leaves should be vibrant dark green, crisp, and springy. Avoid yellowed, wilted, or slimy leaves.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Leaves should be crisp and resilient to the touch, not limp or soggy. Fresh spinach holds its shape when lifted.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Smell",
-        "description": "Should smell fresh and earthy with no sour or musty odor. Off smells mean it’s starting to decay.",
-        "sfSymbol": "nose.fill"
-      },
-      {
-        "title": "Check the Stems",
-        "description": "Stems should be thin and flexible, not thick or woody. Thick stems can indicate the plant bolted and the leaves may be bitter.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Spinach loses about 90% of its vitamin C within 24 hours of being picked, which is why locally grown spinach is so much more nutritious.",
-    "storageTip": "Store loosely in a dry paper towel inside an open bag in the fridge. Use within 5–7 days. Don’t wash until ready to use."
-  },
-  {
-    "id": "bell_pepper",
-    "name": "Bell Pepper",
-    "category": "vegetable",
-    "emoji": "🫑",
-    "colorHex": "#F5B041",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10,
-          11
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
       },
       {
         "region": "ap_southeast",
         "months": [
-          1,
-          2,
-          3,
-          4,
           5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
           6,
           7,
           8,
@@ -2975,362 +309,9 @@
         ]
       },
       {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Should have vibrant, saturated color (red, yellow, or orange are riper and sweeter than green) with glossy, wrinkle-free skin.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Should feel heavy and firm with thick, rigid walls. Soft spots or wrinkled skin mean it’s losing moisture and freshness.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "A good pepper feels surprisingly heavy for its size, which means thick, juicy walls with plenty of flesh.",
-        "sfSymbol": "scalemass.fill"
-      },
-      {
-        "title": "Check the Stem",
-        "description": "The stem should be green, fresh, and firmly attached. A brown, dried-out stem is a sign of age.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Green bell peppers are just unripe red peppers — as they mature on the vine, they turn yellow, then orange, then red, getting sweeter at each stage.",
-    "storageTip": "Store whole in the fridge crisper drawer for up to 2 weeks. Once cut, wrap tightly in plastic and use within 3–4 days."
-  },
-  {
-    "id": "eggplant",
-    "name": "Eggplant",
-    "category": "vegetable",
-    "emoji": "🍆",
-    "colorHex": "#6C3483",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_northern",
-        "months": [
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "eu_central",
-        "months": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      }
-    ],
-    "ripenessTips": [
-      {
-        "title": "Look",
-        "description": "Skin should be smooth, glossy, and deep purple (for common varieties) without wrinkles, scars, or dull patches.",
-        "sfSymbol": "eye.fill"
-      },
-      {
-        "title": "Feel",
-        "description": "Press gently with your thumb — the flesh should spring back immediately. If the dent stays, it’s overripe. It should feel firm but not rock-hard.",
-        "sfSymbol": "hand.raised.fill"
-      },
-      {
-        "title": "Heft",
-        "description": "Should feel heavy for its size, which indicates fresh, dense flesh rather than dried-out, spongy interior.",
-        "sfSymbol": "scalemass.fill"
-      },
-      {
-        "title": "Check the Cap",
-        "description": "The green calyx (cap) at the top should be bright green and fresh-looking, not brown or dried out.",
-        "sfSymbol": "leaf.fill"
-      }
-    ],
-    "funFact": "Eggplant gets its English name from early European varieties that were small, white, and egg-shaped, looking like eggs hanging from the plant.",
-    "storageTip": "Store at room temperature if using within 2 days. For longer storage, place in the fridge crisper drawer for up to a week, but use quickly — cold damages the texture over time."
-  },
-  {
-    "id": "sweet_potato",
-    "name": "Sweet Potato",
-    "category": "vegetable",
-    "emoji": "🍠",
-    "colorHex": "#D35400",
-    "seasons": [
-      {
-        "region": "na_temperate",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "na_warm",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "na_west_coast",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_southeast",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "ap_south",
-        "months": [
-          10,
-          11,
-          12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "ap_australasia",
+        "region": "af_tropical",
         "months": [
           3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "la_tropical",
-        "months": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "af_north",
-        "months": [
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "region": "af_subsaharan",
-        "months": [
           4,
           5,
           6,
@@ -3341,37 +322,138 @@
     ],
     "ripenessTips": [
       {
+        "title": "Feel",
+        "description": "Gently squeeze without pressing fingertips in. It should yield to gentle pressure when ripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
         "title": "Look",
-        "description": "Choose smooth-skinned sweet potatoes with even color and no cracks, bruises, or soft spots. Tapered ends are normal.",
+        "description": "Hass avocados turn dark purplish-black when ripe. Green varieties stay green, so rely on feel.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Check stem",
+        "description": "Flick off the small stem cap. If it comes off easily and is green underneath, it is ripe. Brown underneath means overripe.",
+        "sfSymbol": "leaf.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "A ripe avocado should feel heavy for its size, indicating it still has moisture.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Avocados do not ripen on the tree; farmers can leave them hanging for months as a form of natural storage.",
+    "storageTip": "Ripen on the counter in 2 to 5 days. To speed it up, place in a paper bag with a banana. Once ripe, refrigerate for up to 3 days."
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "category": "fruit",
+    "emoji": "🍌",
+    "colorHex": "#FFE135",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Yellow with small brown freckles is the sweet spot. Fully green means underripe; mostly brown means best for baking.",
         "sfSymbol": "eye.fill"
       },
       {
         "title": "Feel",
-        "description": "Should be very firm all over with no give or soft areas. Soft spots lead to rapid spoilage and often indicate internal rot.",
+        "description": "Should be firm but not hard. The peel should give slightly under gentle pressure.",
         "sfSymbol": "hand.raised.fill"
       },
       {
-        "title": "Heft",
-        "description": "Choose medium-sized ones that feel dense and heavy. Very large sweet potatoes can be fibrous and starchy inside.",
-        "sfSymbol": "scalemass.fill"
+        "title": "Smell",
+        "description": "A ripe banana has a sweet, pleasant fragrance at the stem end.",
+        "sfSymbol": "nose.fill"
       }
     ],
-    "funFact": "Sweet potatoes are not related to regular potatoes at all — they belong to the morning glory family, while potatoes are nightshades.",
-    "storageTip": "Store in a cool, dark, well-ventilated place (not the fridge) for up to a month. Cold temperatures cause the starches to convert and create an unpleasant, hard center."
+    "funFact": "Bananas are technically berries, while strawberries are not; botanists classify them based on seed and flower structure.",
+    "storageTip": "Store at room temperature until ripe. To slow ripening, wrap the stem in plastic wrap. Refrigerating turns the peel brown but the fruit inside stays good for several days."
   },
   {
-    "id": "asparagus",
-    "name": "Asparagus",
-    "category": "vegetable",
-    "emoji": "🥬",
-    "colorHex": "#27AE60",
+    "id": "blueberry",
+    "name": "Blueberry",
+    "category": "fruit",
+    "emoji": "🫐",
+    "colorHex": "#4F86F7",
     "seasons": [
       {
         "region": "na_temperate",
         "months": [
-          4,
-          5,
-          6
+          6,
+          7,
+          8
         ]
       },
       {
@@ -3385,8 +467,6 @@
       {
         "region": "na_west_coast",
         "months": [
-          3,
-          4,
           5,
           6
         ]
@@ -3394,34 +474,17 @@
       {
         "region": "eu_northern",
         "months": [
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "eu_mediterranean",
-        "months": [
-          3,
-          4,
-          5
+          6,
+          7,
+          8
         ]
       },
       {
         "region": "eu_central",
         "months": [
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "ap_east",
-        "months": [
-          3,
-          4,
-          5,
-          6
+          6,
+          7,
+          8
         ]
       },
       {
@@ -3429,13 +492,107 @@
         "months": [
           9,
           10,
-          11,
-          12
+          11
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          9,
+          10,
+          11
         ]
       },
       {
         "region": "la_temperate",
         "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be deep indigo-blue with a silvery-white bloom (natural waxy coating). Red or green tinges mean underripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be plump and firm. Squeeze the container gently; berries should move freely, not stick together in clumps.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check container",
+        "description": "Flip the container and look for juice stains or crushed berries at the bottom, which indicate damage.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Blueberries are one of the only natural foods that are truly blue; the color comes from anthocyanin pigments.",
+    "storageTip": "Do not wash until ready to eat. Store in the refrigerator in a single layer on a paper towel for up to 10 days. Freeze on a sheet pan before transferring to a bag."
+  },
+  {
+    "id": "cantaloupe",
+    "name": "Cantaloupe",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#FFA62F",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
           9,
           10,
           11,
@@ -3445,15 +602,192 @@
       {
         "region": "af_north",
         "months": [
-          3,
-          4,
-          5
+          6,
+          7,
+          8,
+          9
         ]
       },
       {
-        "region": "af_subsaharan",
+        "region": "ap_southeast",
         "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
           8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "The rind under the netting should be golden or cream-colored, not green. The blossom end should have a slight give.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Sniff the stem end. A ripe cantaloupe has a sweet, musky aroma. No scent means it is underripe.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel heavy for its size. The stem end should be slightly indented, meaning it slipped off the vine when ripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Tap the outside. A deep, low sound indicates the flesh is dense and juicy.",
+        "sfSymbol": "ear.fill"
+      }
+    ],
+    "funFact": "What Americans call cantaloupe is actually a muskmelon; true cantaloupes have a smoother rind and are more common in Europe.",
+    "storageTip": "Ripen at room temperature until fragrant, then refrigerate and eat within 3 to 5 days. Cut melon should be wrapped and eaten within 2 days."
+  },
+  {
+    "id": "cherry",
+    "name": "Cherry",
+    "category": "fruit",
+    "emoji": "🍒",
+    "colorHex": "#DE3163",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be deeply colored: dark red to almost black for sweet varieties, bright red for sour. Avoid pale or shriveled cherries.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be plump and firm with glossy, taut skin. Soft or wrinkled cherries are past their prime.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check stem",
+        "description": "Green, flexible stems indicate freshness. Brown, brittle stems mean they have been sitting too long.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Cherry trees are related to roses, almonds, and peaches, all belonging to the Prunus genus in the Rosaceae family.",
+    "storageTip": "Store unwashed in a single layer in the refrigerator for up to a week. Bring to room temperature before eating for best flavor. Freeze pitted cherries on a sheet pan."
+  },
+  {
+    "id": "cranberry",
+    "name": "Cranberry",
+    "category": "fruit",
+    "emoji": "🔴",
+    "colorHex": "#9B1B30",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
           9,
           10,
           11
@@ -3463,33 +797,35 @@
     "ripenessTips": [
       {
         "title": "Look",
-        "description": "Tips should be tight, compact, and deep green or purple. Avoid spears with open, feathery, or mushy tips — they’re past their prime.",
+        "description": "Should be deep red with a glossy, smooth surface. Pale or white berries are underripe.",
         "sfSymbol": "eye.fill"
       },
       {
         "title": "Feel",
-        "description": "Stalks should be firm, straight, and rigid, snapping cleanly when bent. Limp, bendy spears are old and will be tough and fibrous.",
+        "description": "A ripe cranberry is firm and bounces when dropped on a hard surface. Soft berries should be discarded.",
         "sfSymbol": "hand.raised.fill"
       },
       {
-        "title": "Check the Cut Ends",
-        "description": "The cut ends should look fresh and moist, not dried out, cracked, or woody. Fresher cuts mean more recently harvested.",
-        "sfSymbol": "leaf.fill"
+        "title": "Inspect",
+        "description": "Check the bag for moisture or crushed berries. Dry, firm berries in a clean bag will last the longest.",
+        "sfSymbol": "eye.fill"
       }
     ],
-    "funFact": "An asparagus spear can grow up to 10 inches in a single 24-hour period under ideal spring conditions.",
-    "storageTip": "Trim the ends and stand the bunch upright in a jar with an inch of water, then cover loosely with a plastic bag. Refrigerate for up to a week."
+    "funFact": "Cranberries have small air pockets inside, which is why they float in water and can be wet-harvested by flooding the bogs.",
+    "storageTip": "Refrigerate in their original bag for up to 2 months. Freeze in a single layer, then bag them; frozen cranberries last up to a year."
   },
   {
     "id": "fig",
     "name": "Fig",
     "category": "fruit",
-    "emoji": "🥝",
-    "colorHex": "#7D3C98",
+    "emoji": "🟤",
+    "colorHex": "#6B4226",
     "seasons": [
       {
         "region": "na_warm",
         "months": [
+          6,
+          7,
           8,
           9,
           10
@@ -3498,7 +834,6 @@
       {
         "region": "na_west_coast",
         "months": [
-          8,
           9,
           10
         ]
@@ -3510,6 +845,100 @@
           8,
           9,
           10
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be plump and slightly drooping at the neck. Color depends on variety: deep purple, green, or brown.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "A ripe fig yields to gentle pressure like a ripe peach. Rock-hard figs were picked too early and will not ripen well.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Should smell sweet and jammy. A sour or fermented smell means it is overripe.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Figs are technically inverted flowers; the tiny seeds inside are the actual fruits of the plant.",
+    "storageTip": "Figs are highly perishable. Store on a plate lined with paper towel in the refrigerator and eat within 2 to 3 days of purchase."
+  },
+  {
+    "id": "grape",
+    "name": "Grape",
+    "category": "fruit",
+    "emoji": "🍇",
+    "colorHex": "#6F2DA8",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          8,
+          9,
+          10,
+          11
         ]
       },
       {
@@ -3529,32 +958,6 @@
         ]
       },
       {
-        "region": "ap_south",
-        "months": [
-          2,
-          3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
         "region": "af_north",
         "months": [
           7,
@@ -3564,49 +967,1054 @@
         ]
       },
       {
-        "region": "af_subsaharan",
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "la_temperate",
         "months": [
           1,
           2,
           3,
           4
         ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be plump with consistent color. A whitish bloom on the surface is natural and indicates freshness.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Pick up the bunch and shake gently. A few grapes may fall, but many dropping indicates they are past peak.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check stem",
+        "description": "The stem should be green and flexible. A brown, dry, or brittle stem means old grapes.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "A single grapevine can produce enough fruit to make about 10 bottles of wine, and some vines live for over 100 years.",
+    "storageTip": "Store unwashed in a ventilated bag or container in the refrigerator for up to 2 weeks. Wash just before eating."
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#FF6347",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Heft",
+        "description": "Pick it up: a ripe grapefruit is surprisingly heavy for its size, indicating high juice content.",
+        "sfSymbol": "scalemass.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm but springy with smooth, thin skin. Thick, puffy skin often means less juice inside.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Color varies by variety but should be vibrant. Slight green tinge on otherwise colored fruit is fine.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Grapefruit got its name because it grows in clusters on the tree, similar to how grapes grow in bunches.",
+    "storageTip": "Store at room temperature for about a week, or refrigerate for up to 6 weeks. Bring to room temperature before eating for the juiciest flavor."
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "category": "fruit",
+    "emoji": "🥝",
+    "colorHex": "#8DB600",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
       }
     ],
     "ripenessTips": [
       {
         "title": "Feel",
-        "description": "A ripe fig is soft and yields to gentle pressure, like a water balloon. Firm figs are underripe and won’t have much flavor.",
+        "description": "Press gently with your thumb. A ripe kiwi gives slightly, like a ripe pear. Rock-hard means it needs more time.",
         "sfSymbol": "hand.raised.fill"
       },
       {
         "title": "Look",
-        "description": "Should be plump with rich color (deep purple, brown, or green depending on variety). A slight droop at the neck and small cracks near the bottom are signs of peak ripeness.",
+        "description": "The fuzzy brown skin should be intact without wrinkles, dark spots, or mold.",
         "sfSymbol": "eye.fill"
       },
       {
         "title": "Smell",
-        "description": "Should smell mildly sweet and honey-like. A sour or fermented smell means it’s gone too far.",
+        "description": "A ripe kiwi has a light, fruity fragrance. A strong or fermented smell indicates it is overripe.",
         "sfSymbol": "nose.fill"
       }
     ],
-    "funFact": "Figs are technically inverted flowers — the flower blooms inside the fleshy structure, and each tiny seed-like crunch is an individual fruit.",
-    "storageTip": "Eat immediately or within 1–2 days — figs are extremely perishable. Store in a single layer on a paper towel-lined plate in the fridge."
+    "funFact": "Kiwis were originally called Chinese gooseberries; New Zealand growers renamed them after their national bird for marketing appeal.",
+    "storageTip": "Ripen at room temperature away from sunlight. Once ripe, store in the refrigerator for up to 4 weeks. To speed ripening, place in a bag with a banana."
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "category": "fruit",
+    "emoji": "🍋",
+    "colorHex": "#FFF44F",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be bright, vibrant yellow with smooth, fine-grained skin. Pale or greenish lemons tend to be more acidic.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Choose lemons that are firm but give slightly. Thin-skinned lemons yield more juice than thick-skinned ones.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "A juicy lemon feels heavy for its size. Lightweight lemons have dried out inside.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Lemon juice is a natural preservative; its citric acid prevents cut fruits like apples and avocados from browning.",
+    "storageTip": "Store at room temperature for a week, or in a sealed bag in the refrigerator for up to a month. A whole lemon kept in water in the fridge stays juicy even longer."
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "category": "fruit",
+    "emoji": "🥭",
+    "colorHex": "#FF8243",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Sniff the stem end. A ripe mango has a strong, sweet, fruity aroma. No smell means it needs more time.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should yield gently to pressure, like a ripe avocado. Very firm is underripe; mushy is overripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Color depends on variety and is not the best indicator. Focus on feel and smell instead. Avoid any with wrinkled or oozing skin.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Mangoes are the most consumed fruit in the world, with over 400 varieties grown across tropical regions.",
+    "storageTip": "Ripen at room temperature until fragrant and slightly soft. Once ripe, refrigerate for up to 5 days. Cut mango can be frozen for smoothies."
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#FF8C00",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Heft",
+        "description": "A heavy orange means more juice. Compare similarly sized oranges and pick the heaviest one.",
+        "sfSymbol": "scalemass.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm with smooth, thin skin. Puffy or spongy skin usually means less juice and more pith.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "A slight green tinge does not mean unripe; oranges sometimes regreen. Uniform shape is a better indicator of quality.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "The color orange was actually named after the fruit, not the other way around; before that, English speakers called the color 'geoluhread' (yellow-red).",
+    "storageTip": "Store at room temperature for about a week, or in the refrigerator for up to 3 weeks. Roll on the counter before juicing to get more juice out."
+  },
+  {
+    "id": "peach",
+    "name": "Peach",
+    "category": "fruit",
+    "emoji": "🍑",
+    "colorHex": "#FFCBA4",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "A ripe peach has a strong, sweet fragrance you can smell from arm's length. No scent likely means no flavor.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should give slightly to gentle pressure, especially along the seam. Avoid rock-hard or mushy fruit.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "The background color (not the blush) tells ripeness. It should be golden or creamy, not green.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Despite being called Persian apples in many languages, peaches originated in China where they have been cultivated for over 8,000 years.",
+    "storageTip": "Ripen at room temperature stem-side down. Once ripe, refrigerate for up to 5 days. Cold peaches lose some flavor, so bring back to room temperature before eating."
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "category": "fruit",
+    "emoji": "🍐",
+    "colorHex": "#D1E231",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          1,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Press gently near the stem. If it yields slightly, it is ripe. Pears ripen from the inside out, so the flesh is ready before the skin shows it.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Color change varies by type. Bartlett pears turn yellow; Bosc stay brown. Check the neck, not the body.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "A sweet, floral fragrance near the stem means it is ready. If there is no aroma, it needs more time.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Pears are one of the few fruits that ripen better off the tree; left on the branch they develop a gritty texture from stone cells.",
+    "storageTip": "Buy firm and ripen at room temperature for a few days. Once the neck yields to gentle pressure, refrigerate for up to 5 days."
+  },
+  {
+    "id": "persimmon",
+    "name": "Persimmon",
+    "category": "fruit",
+    "emoji": "🟠",
+    "colorHex": "#EC5800",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be deep orange to reddish-orange with glossy skin. Green patches indicate immaturity.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Hachiya persimmons should be jelly-soft when ripe. Fuyu types can be eaten when still firm, like an apple.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check leaves",
+        "description": "The calyx (leaf cap) should be flat against the fruit and green. A dried, pulling-away calyx means it is old.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Unripe Hachiya persimmons contain high levels of tannins that cause an intense, mouth-puckering astringency that vanishes when fully ripe.",
+    "storageTip": "Ripen Hachiyas at room temperature until very soft, which can take a week or more. Fuyu types store for a few weeks in the fridge. Freeze puree for baking."
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "category": "fruit",
+    "emoji": "🍍",
+    "colorHex": "#FFD700",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Sniff the base. A strong, sweet, tropical aroma means it is ripe. No smell means bland fruit; fermented smell means overripe.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Should be golden-yellow from the base up. More yellow means sweeter. Leaves should be green, not brown.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel firm but give slightly when pressed. A leaf from the center crown should pull out with gentle effort when ripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "Should feel heavy for its size, meaning it is full of juice.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "A pineapple is actually a cluster of 100 to 200 individual berries fused together around a central core.",
+    "storageTip": "A pineapple will not ripen further after picking; it only gets softer. Store upside down at room temperature for 1 to 2 days to distribute sweetness. Refrigerate cut pineapple for up to 5 days."
   },
   {
     "id": "pomegranate",
     "name": "Pomegranate",
     "category": "fruit",
     "emoji": "🔴",
-    "colorHex": "#C0392B",
+    "colorHex": "#C41E3A",
     "seasons": [
       {
-        "region": "na_warm",
+        "region": "na_temperate",
         "months": [
           9,
           10,
-          11,
-          12
+          11
         ]
       },
       {
@@ -3628,16 +2036,8 @@
         ]
       },
       {
-        "region": "eu_central",
-        "months": [
-          10,
-          11
-        ]
-      },
-      {
         "region": "ap_east",
         "months": [
-          9,
           10,
           11
         ]
@@ -3645,30 +2045,10 @@
       {
         "region": "ap_south",
         "months": [
-          9,
           10,
           11,
           12,
-          1,
-          2
-        ]
-      },
-      {
-        "region": "ap_australasia",
-        "months": [
-          3,
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "region": "la_temperate",
-        "months": [
-          3,
-          4,
-          5,
-          6
+          1
         ]
       },
       {
@@ -3681,38 +2061,3091 @@
         ]
       },
       {
-        "region": "af_subsaharan",
+        "region": "ap_australasia",
         "months": [
           3,
           4,
-          5,
-          6
+          5
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5
         ]
       }
     ],
     "ripenessTips": [
       {
         "title": "Heft",
-        "description": "A ripe pomegranate feels remarkably heavy for its size — that weight comes from hundreds of juice-filled arils packed inside.",
+        "description": "Should feel surprisingly heavy; the weight comes from juice-filled arils inside.",
         "sfSymbol": "scalemass.fill"
       },
       {
         "title": "Look",
-        "description": "The skin should be deep red and slightly rough or leathery, not smooth. A slightly angular shape (not perfectly round) means the arils are plump and pressing outward.",
+        "description": "Skin should be deep red and taut. Slight angularity of the sides (not perfectly round) means the arils are full.",
         "sfSymbol": "eye.fill"
       },
       {
-        "title": "Tap It",
-        "description": "Tap the side — a ripe pomegranate produces a metallic, hollow sound, indicating the arils inside are juicy and well-developed.",
-        "sfSymbol": "ear.fill"
-      },
-      {
         "title": "Feel",
-        "description": "The skin should be firm and taut but not rock-hard. A slight give is fine, but soft spots mean it’s overripe inside.",
+        "description": "The skin should be firm and leathery, not soft or cracked. Small scratches on the surface do not affect quality.",
         "sfSymbol": "hand.raised.fill"
       }
     ],
-    "funFact": "A single pomegranate contains about 600 to 800 individual arils (seeds), and the name literally means “apple of many seeds” in Latin.",
-    "storageTip": "Store whole at room temperature for up to a week, or refrigerate for up to 2 months. Separated arils keep in an airtight container in the fridge for about 5 days."
+    "funFact": "A single pomegranate contains about 600 to 800 arils (seed pods), each wrapped in a jewel-like sac of juice.",
+    "storageTip": "Whole pomegranates last up to 2 months in the refrigerator. Store arils in an airtight container in the fridge for up to a week, or freeze them for months."
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "category": "fruit",
+    "emoji": "🍓",
+    "colorHex": "#FC5A8D",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be uniformly bright red from tip to stem with no white or green patches. White shoulders mean underripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "The most reliable test: ripe strawberries have a strong, sweet berry fragrance. No smell means no flavor.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm but not hard. Avoid soft, mushy, or leaking berries.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check cap",
+        "description": "The green cap should be bright and fresh-looking, firmly attached. Wilted caps mean they were picked days ago.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Strawberries are the only fruit that wears its seeds on the outside, with about 200 tiny seeds on each berry.",
+    "storageTip": "Do not wash until ready to eat. Store in a single layer on paper towels in the refrigerator for 3 to 5 days. Moldy berries should be removed immediately as mold spreads fast."
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "category": "fruit",
+    "emoji": "🍉",
+    "colorHex": "#FC6C85",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Check the field spot where it rested on the ground. A creamy yellow spot indicates ripeness; white means underripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Knock on it. A ripe watermelon produces a deep, hollow sound. A dull thud means it may be overripe.",
+        "sfSymbol": "ear.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "Should feel very heavy for its size. Watermelons are 92 percent water, so weight means juiciness.",
+        "sfSymbol": "scalemass.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "The rind should be hard and resist scratching with a fingernail. A slightly bumpy surface texture is normal.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Watermelon is both a fruit and a vegetable; it belongs to the cucumber and squash family (Cucurbitaceae).",
+    "storageTip": "Store whole at room temperature for up to 2 weeks. Cut watermelon should be refrigerated in an airtight container and eaten within 5 days."
+  },
+  {
+    "id": "artichoke",
+    "name": "Artichoke",
+    "category": "vegetable",
+    "emoji": "🟢",
+    "colorHex": "#8DB600",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Leaves should be tightly packed, firm, and green. Spreading or browning leaves mean it is past its prime.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel heavy and dense for its size. Squeeze it: a fresh artichoke squeaks slightly.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Squeeze the artichoke near your ear. A fresh one makes a squeaking sound as the leaves press together.",
+        "sfSymbol": "ear.fill"
+      }
+    ],
+    "funFact": "The part of the artichoke we eat is actually an immature flower bud; if left unharvested, it blooms into a large, purple thistle.",
+    "storageTip": "Store unwashed in a plastic bag in the refrigerator for up to a week. Sprinkle a few drops of water in the bag to keep them hydrated."
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#87A96B",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Tips should be tightly closed and compact, not flowering or mushy. Stalks should be bright green or purple.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Stalks should be firm and straight, snapping cleanly when bent. Limp asparagus is old.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check base",
+        "description": "The cut ends should look fresh and moist, not dried out, woody, or excessively white.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Asparagus is one of the fastest growing vegetables, capable of growing up to 10 inches in a single day under ideal conditions.",
+    "storageTip": "Treat like cut flowers: trim the ends and stand upright in a jar with an inch of water, covered loosely with a plastic bag. Refrigerate and use within 3 to 5 days."
+  },
+  {
+    "id": "beetroot",
+    "name": "Beetroot",
+    "category": "vegetable",
+    "emoji": "🟣",
+    "colorHex": "#8B0000",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be deep, rich color with smooth skin. Avoid beets with scales, bruises, or soft wet spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be very firm and hard, like a rock. Soft beets are old. Smaller beets tend to be sweeter and more tender.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check greens",
+        "description": "If greens are still attached, they should be vibrant and not wilted. Fresh greens indicate a freshly harvested beet.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Beets were originally cultivated for their greens only; eating the root did not become popular until the 1500s in Germany.",
+    "storageTip": "Remove greens immediately as they draw moisture from the root. Store unwashed roots in a plastic bag in the refrigerator for up to 3 weeks. Cook greens separately within 2 days."
+  },
+  {
+    "id": "bell_pepper",
+    "name": "Bell Pepper",
+    "category": "vegetable",
+    "emoji": "🫑",
+    "colorHex": "#FF6347",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should have vibrant, glossy skin with no wrinkles or dull patches. Color should be uniform throughout.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm with thick walls that do not flex easily when pressed. Avoid soft spots or thin walls.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "A heavy pepper has thick, juicy walls. Lighter ones tend to have thinner flesh.",
+        "sfSymbol": "scalemass.fill"
+      },
+      {
+        "title": "Check stem",
+        "description": "The stem should be bright green and firmly attached. A brown or withered stem signals age.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Green bell peppers are actually unripe; if left on the plant they turn yellow, then orange, then red, getting sweeter at each stage.",
+    "storageTip": "Store unwashed in the crisper drawer for up to 2 weeks. Cut peppers should be stored in an airtight container and used within 3 days."
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "category": "vegetable",
+    "emoji": "🥦",
+    "colorHex": "#4F7942",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          10
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Florets should be tightly closed and dark green to blue-green. Yellowing florets mean it is starting to flower and past peak.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "The head should be firm and the stalk should feel crisp when snapped. Rubbery stalks indicate old broccoli.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Fresh broccoli has a mild, slightly green scent. A strong, cabbage-like odor means it is getting old.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Broccoli is a human invention, bred by Italian farmers from wild cabbage plants starting in the 6th century BCE.",
+    "storageTip": "Store unwashed in a loose plastic bag in the refrigerator for up to 5 days. Do not seal tightly as broccoli needs some airflow. Do not wash before storing."
+  },
+  {
+    "id": "brussels_sprouts",
+    "name": "Brussels Sprouts",
+    "category": "vegetable",
+    "emoji": "🟢",
+    "colorHex": "#4A7023",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          1,
+          2,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be bright green with tightly packed leaves. Avoid any with black spots or yellowing outer leaves.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm and compact. Loose or puffy sprouts will be bitter and have a cabbage-like taste.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Smaller sprouts (about 1 inch) tend to be sweeter and more tender than larger ones.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Brussels sprouts taste less bitter after a frost because the cold triggers the plant to convert starches into sugars as a natural antifreeze.",
+    "storageTip": "Store in a bag in the refrigerator for up to a week. If still on the stalk, they keep even longer. Trim and halve right before cooking."
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#ACE1AF",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Should feel very heavy and solid when picked up. The head should be compact with no give when squeezed.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Outer leaves should be vibrant and fresh, not wilted, yellowed, or slimy. Check the stem end for signs of browning.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "Compare cabbages of similar size; the heavier one is denser and fresher.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Cabbage was one of the first vegetables cultivated by Europeans, and sauerkraut was reportedly fed to workers building the Great Wall of China.",
+    "storageTip": "Whole, unwashed cabbage will keep in the crisper drawer for up to 2 months. Once cut, wrap tightly in plastic wrap and use within 5 days."
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "category": "vegetable",
+    "emoji": "🥕",
+    "colorHex": "#ED9121",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be bright orange with smooth skin. Cracks, green shoulders, or forking indicate poor growing conditions.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm and rigid, not bendy or limp. A bendable carrot has lost its moisture.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check greens",
+        "description": "If tops are attached, they should be bright green and feathery. Wilted tops mean the carrot is not fresh.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Carrots were originally purple and yellow; the orange variety was developed in the Netherlands in the 17th century.",
+    "storageTip": "Remove greens immediately as they pull moisture from the root. Store in a sealed bag in the crisper drawer for up to 3 weeks. Limp carrots can be revived by soaking in ice water."
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "category": "vegetable",
+    "emoji": "⚪",
+    "colorHex": "#FFFDD0",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          1,
+          2,
+          3,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "The head should be creamy white (or uniformly colored for purple/green varieties) with no brown or dark spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be heavy and firm with compact, tightly packed florets. Loose, spreading florets indicate over-maturity.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check leaves",
+        "description": "The surrounding leaves should be green and crisp, hugging the head. Wilted or yellow leaves mean it is old.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Cauliflower is available in purple, orange, and green varieties, each with slightly different nutritional profiles and flavors.",
+    "storageTip": "Store whole, unwashed, stem-side up in a loosely closed bag in the refrigerator for up to a week. Cut florets last about 4 days."
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "category": "vegetable",
+    "emoji": "🌽",
+    "colorHex": "#FBEC5D",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Through the husk, the ear should feel plump with kernels you can feel from top to bottom. Gaps mean poor pollination.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "The silk at the top should be brown and slightly sticky, not dry and black. Green husks should be tightly wrapped.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Check kernels",
+        "description": "Peel back a small section of husk. Kernels should be plump and release milky liquid when pierced. Clear liquid means underripe.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Corn always has an even number of rows on each ear, typically between 12 and 16, due to the way the kernels develop in pairs.",
+    "storageTip": "Eat as soon as possible; corn starts converting sugar to starch within hours of picking. Store in the husk in the refrigerator for up to 3 days. Do not shuck until ready to cook."
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "vegetable",
+    "emoji": "🥒",
+    "colorHex": "#77B65D",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be dark green and uniform with no yellowing, which indicates over-maturity and bitter seeds.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be very firm from end to end. Soft ends mean the cucumber is aging and the inside is getting mushy.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Medium-sized cucumbers have the best flavor and texture. Very large ones tend to be seedy and bitter.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Cucumbers are 96 percent water, making them one of the most hydrating foods available.",
+    "storageTip": "Wrap individually in a paper towel and store in a loose bag in the refrigerator for up to a week. Keep away from tomatoes and bananas which speed deterioration."
+  },
+  {
+    "id": "eggplant",
+    "name": "Eggplant",
+    "category": "vegetable",
+    "emoji": "🍆",
+    "colorHex": "#614051",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should have smooth, glossy, taut skin with consistent deep purple color. Dull or wrinkled skin means it is old.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Press gently with your thumb. It should spring back. If the indent stays, it is overripe. If rock-hard, it is underripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "Should feel heavy for its size. Lightweight eggplants can be spongy and bitter inside.",
+        "sfSymbol": "scalemass.fill"
+      },
+      {
+        "title": "Check cap",
+        "description": "The green calyx and stem should look fresh, not dried or moldy.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Eggplants are technically berries and members of the nightshade family, along with tomatoes, potatoes, and tobacco.",
+    "storageTip": "Store at room temperature and use within 2 days, or refrigerate in the crisper drawer for up to 5 days. Cold temperatures can damage the texture if stored too long."
+  },
+  {
+    "id": "green_beans",
+    "name": "Green Beans",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#4F7942",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be bright green with a smooth surface. Avoid beans with visible bulges from oversized seeds inside.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should snap cleanly when bent in half. If they bend without breaking, they are old and rubbery.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Slender, young beans are more tender and flavorful than thick, mature ones with prominent seeds.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Green beans were one of the first New World foods to be adopted in Europe after Spanish explorers brought them back in the 16th century.",
+    "storageTip": "Store unwashed in a plastic bag in the crisper drawer for up to 7 days. To freeze, blanch for 3 minutes first, then ice-bath and dry before bagging."
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#4A7023",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          1,
+          2,
+          3,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Leaves should be deeply colored (dark green to blue-green) and crisp with no yellowing or brown spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Leaves should feel sturdy and firm, not limp or slimy. Smaller leaves are more tender for salads.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check stems",
+        "description": "Stems should be moist at the cut end and firm. Dried-out or slimy stems mean old kale.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Kale becomes sweeter after exposure to frost, similar to Brussels sprouts, as the plant converts starch to sugar to protect its cells.",
+    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the refrigerator for up to a week. Do not wash before storing as moisture accelerates decay."
+  },
+  {
+    "id": "peas",
+    "name": "Peas",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#8FBC8F",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Pods should be bright green, plump, and slightly shiny. Dull, yellowish, or dry pods are past their prime.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "For shelling peas, the pods should feel full and firm. For sugar snaps and snow peas, they should be crisp and flat.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Snap a pod in half: it should make a clean, audible snap. A limp bend means they are old.",
+        "sfSymbol": "ear.fill"
+      }
+    ],
+    "funFact": "Gregor Mendel used peas to discover the fundamental laws of genetics in the 1860s, making the humble pea foundational to modern biology.",
+    "storageTip": "Eat as quickly as possible; like corn, peas begin converting sugar to starch immediately after picking. Refrigerate in a bag for up to 3 days. Freeze quickly if not eating right away."
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#FF7518",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be a deep, uniform orange (or color typical for variety) with no soft spots, cuts, or mold.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "The rind should be very hard and resist a thumbnail pressed into it. Soft rind means it is not fully mature.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Knock on it. A ripe pumpkin sounds hollow, similar to a drum.",
+        "sfSymbol": "ear.fill"
+      },
+      {
+        "title": "Check stem",
+        "description": "A dry, corky stem indicates maturity. Never carry a pumpkin by its stem, as it can break off and invite rot.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Pumpkins are about 90 percent water and are technically a fruit because they develop from the flowering part of the plant and contain seeds.",
+    "storageTip": "Cure in a warm spot for 10 days, then store in a cool, dry place for up to 3 months. Cut pumpkin can be refrigerated for a week or frozen for months."
+  },
+  {
+    "id": "radish",
+    "name": "Radish",
+    "category": "vegetable",
+    "emoji": "🔴",
+    "colorHex": "#FF6B6B",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be brightly colored with smooth, unblemished skin. Avoid cracked or oversized radishes, which may be pithy inside.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be rock-hard and firm. A spongy or soft radish has a woody, hollow center.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check greens",
+        "description": "If greens are attached, they should look fresh and perky, not slimy or yellow.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Radishes were among the first European crops planted in the Americas and were even grown by astronauts on the International Space Station.",
+    "storageTip": "Remove greens right away and store radishes in a bag in the refrigerator for up to 2 weeks. To restore crispness, soak in ice water for 30 minutes."
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#2E8B57",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Leaves should be vibrant dark green and crisp. Yellow, wilted, or slimy leaves indicate age.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Leaves should feel springy and resilient, not limp or soggy. Thicker leaves hold up better in cooking.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Should have a fresh, earthy scent. A sour or off smell means it has started to decay.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Spinach loses about 90 percent of its volume when cooked because the heat breaks down the cell walls and releases all the water stored inside.",
+    "storageTip": "Store in a bag lined with paper towels in the refrigerator for up to 5 days. Do not wash before storing. Excess moisture is the top cause of quick spoilage."
+  },
+  {
+    "id": "sweet_potato",
+    "name": "Sweet Potato",
+    "category": "vegetable",
+    "emoji": "🍠",
+    "colorHex": "#CC5500",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Skin should be smooth and uniform in color with no cracks, soft spots, or sprouts.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be very firm throughout. Any soft or mushy areas indicate rot that will spread.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Choose medium-sized sweet potatoes for the best texture. Very large ones can be fibrous and less sweet.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Despite the name, sweet potatoes are not related to regular potatoes at all; they belong to the morning glory family.",
+    "storageTip": "Store in a cool, dark, well-ventilated place (not the refrigerator) for up to a month. Cold temperatures convert starches to sugars and alter the texture."
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "category": "vegetable",
+    "emoji": "🍅",
+    "colorHex": "#FF6347",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Sniff near the stem. A ripe tomato has a rich, earthy, sweet tomato smell. No smell usually means no flavor.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should give slightly to gentle pressure but bounce back. Hard means underripe; very soft means overripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Color should be deep and uniform for the variety. The bottom (blossom end) should be the same color as the sides.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Heft",
+        "description": "A ripe tomato is heavy for its size, indicating juiciness and dense flesh.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "Tomatoes were once considered poisonous in Europe because wealthy people who ate them from pewter plates got sick from the lead leaching into the acidic juice.",
+    "storageTip": "Never refrigerate unripe tomatoes; cold kills the flavor enzymes permanently. Store stem-side down at room temperature. Once fully ripe, eat within a day or two."
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "category": "vegetable",
+    "emoji": "🥒",
+    "colorHex": "#3B7A57",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_temperate",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be dark green and glossy with no nicks, soft spots, or shriveled ends.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm from end to end. Soft spots or sponginess indicate it is old or was damaged.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Smaller zucchini (6 to 8 inches) have the best flavor and texture. Large ones are watery and seedy.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "A single zucchini plant can produce 6 to 10 pounds of fruit in a season, which is why gardeners are famously known for giving away their surplus.",
+    "storageTip": "Store unwashed in a perforated bag in the crisper drawer for up to a week. Do not cut until ready to use, as exposed flesh deteriorates quickly."
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#90EE90",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Leaves should be crisp, vibrant, and free from brown edges, slime, or wilting. Avoid heads with a pinkish tint on the ribs.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel springy and light for its size. A head that feels too dense or heavy may be over-mature and bitter.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check base",
+        "description": "The cut end at the base should look fresh and white, not brown or dried out.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "Ancient Egyptians first cultivated lettuce not for eating but for the oil from its seeds; it was later adopted as a food crop by the Greeks and Romans.",
+    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the crisper drawer for up to a week. Keep away from apples and bananas which cause browning."
+  },
+  {
+    "id": "leek",
+    "name": "Leek",
+    "category": "vegetable",
+    "emoji": "🧅",
+    "colorHex": "#4A7023",
+    "seasons": [
+      {
+        "region": "na_temperate",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          1,
+          2,
+          3,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "The white and light green portion should be clean, firm, and long. Dark green tops should be vibrant, not yellowed.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be firm and crisp from root to top. Avoid leeks that feel soft, slimy, or rubbery.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check size",
+        "description": "Medium-sized leeks (about 1 to 1.5 inches in diameter) are more tender than very thick ones, which can be tough.",
+        "sfSymbol": "scalemass.fill"
+      }
+    ],
+    "funFact": "The leek is the national emblem of Wales; legend says Welsh soldiers wore leeks on their helmets to distinguish themselves in battle.",
+    "storageTip": "Store untrimmed and unwashed in a loose plastic bag in the refrigerator for up to 2 weeks. Do not trim until ready to cook, and rinse thoroughly between layers to remove trapped dirt."
   }
 ]

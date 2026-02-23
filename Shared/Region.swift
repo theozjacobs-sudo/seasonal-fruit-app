@@ -23,7 +23,8 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
 
     // Africa
     case northAfrica = "af_north"
-    case subSaharanAfrica = "af_subsaharan"
+    case tropicalAfrica = "af_tropical"
+    case southernAfrica = "af_south"
 
     var id: String { rawValue }
 
@@ -42,7 +43,8 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
         case .tropicalLatinAmerica: return "Tropical Latin America"
         case .temperateLatinAmerica: return "Temperate South America"
         case .northAfrica: return "North Africa"
-        case .subSaharanAfrica: return "Sub-Saharan Africa"
+        case .tropicalAfrica: return "Tropical Africa"
+        case .southernAfrica: return "Southern Africa"
         }
     }
 
@@ -59,7 +61,8 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
         case .tropicalLatinAmerica: return "\u{1F1E7}\u{1F1F7}"
         case .temperateLatinAmerica: return "\u{1F1E6}\u{1F1F7}"
         case .northAfrica: return "\u{1F1F2}\u{1F1E6}"
-        case .subSaharanAfrica: return "\u{1F1F0}\u{1F1EA}"
+        case .tropicalAfrica: return "\u{1F1F0}\u{1F1EA}"
+        case .southernAfrica: return "\u{1F1FF}\u{1F1E6}"
         }
     }
 }

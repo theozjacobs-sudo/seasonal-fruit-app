@@ -99,8 +99,11 @@ final class LocationService: NSObject, ObservableObject {
         // Africa
         case "MA", "TN", "DZ", "EG", "LY":
             return .northAfrica
-        case "ZA", "KE", "NG", "GH", "TZ", "ET", "UG", "SN", "CI":
-            return .subSaharanAfrica
+        case "ZA", "LS", "SZ", "BW", "NA", "MZ":
+            return .southernAfrica
+        case "KE", "NG", "GH", "TZ", "ET", "UG", "SN", "CI",
+             "CM", "CD", "CG", "RW", "MW", "ZM", "ZW", "AO":
+            return .tropicalAfrica
 
         default:
             if abs(latitude) < 23.5 { return .tropicalLatinAmerica }
