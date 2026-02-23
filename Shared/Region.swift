@@ -18,6 +18,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
     case australasia = "ap_australasia"
 
     // Latin America
+    case mexico = "la_mexico"
     case tropicalLatinAmerica = "la_tropical"
     case temperateLatinAmerica = "la_temperate"
 
@@ -40,6 +41,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
         case .southeastAsia: return "Southeast Asia"
         case .southAsia: return "South Asia"
         case .australasia: return "Australia & New Zealand"
+        case .mexico: return "Mexico"
         case .tropicalLatinAmerica: return "Tropical Latin America"
         case .temperateLatinAmerica: return "Temperate South America"
         case .northAfrica: return "North Africa"
@@ -58,6 +60,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
         case .southeastAsia: return "\u{1F1F9}\u{1F1ED}"
         case .southAsia: return "\u{1F1EE}\u{1F1F3}"
         case .australasia: return "\u{1F1E6}\u{1F1FA}"
+        case .mexico: return "\u{1F1F2}\u{1F1FD}"
         case .tropicalLatinAmerica: return "\u{1F1E7}\u{1F1F7}"
         case .temperateLatinAmerica: return "\u{1F1E6}\u{1F1F7}"
         case .northAfrica: return "\u{1F1F2}\u{1F1E6}"

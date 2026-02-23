@@ -64,7 +64,7 @@ final class LocationService: NSObject, ObservableObject {
         case "CA":
             return .northAmericaTemperate
         case "MX":
-            return .tropicalLatinAmerica
+            return .mexico
 
         // Europe
         case "GB", "IE", "SE", "NO", "DK", "FI", "IS", "NL", "BE":
