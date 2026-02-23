@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0E3F46254D061821B70B3727 /* SharedConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45FC67ECE7D7327B3DF14BD /* SharedConstants.swift */; };
+		0EC3E667CF2453050F03834E /* ProduceCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755E9A17FA7616D23AC4EB /* ProduceCardView.swift */; };
+		12ACEB666F5A8DA4632FE040 /* ProduceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DFA6637C2435932C4A05C8 /* ProduceListView.swift */; };
+		1C8406D85319345D618858D6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8037330956273742C6D9BA70 /* Extensions.swift */; };
+		23C74A4505F54B281C1EE7DD /* SeasonalWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A8D9FEE2980E7403C4677CE9 /* SeasonalWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		29298F253EB95271CD5BAB97 /* ComingSoonChip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28D545C3CB3AE393794139F /* ComingSoonChip.swift */; };
+		46C7FEBCF36D4EB4E814D7EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD37EC6850BAF1A0DD25108A /* ContentView.swift */; };
+		47E33D40318A4D62C6CBCE03 /* ProduceDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275259D6E62866814C87C10E /* ProduceDetailView.swift */; };
+		4F903EC0C9FBF99983E3CB98 /* LargeWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEB2A6B3A217C6A535E042A /* LargeWidgetView.swift */; };
+		6329F7DA52A40DC88E341E35 /* Region.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31247FBBA982F9873E46C53A /* Region.swift */; };
+		66977B622C21A70B653B1793 /* SharedDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA6C7B4BA049D95A2B31777 /* SharedDataManager.swift */; };
+		787EA089D4BE92162C11B69C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81754731A3B78015D1A7FDC /* SettingsView.swift */; };
+		788045F313C51E9EEEDCC369 /* ProduceItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6B94D8678B1AA91EBCAE60 /* ProduceItem.swift */; };
+		7A7783FF733F22B23781330B /* RipenessTipCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7B9B89176D83725ACF0F80 /* RipenessTipCard.swift */; };
+		7D349935FD76A999335C27AC /* SharedDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA6C7B4BA049D95A2B31777 /* SharedDataManager.swift */; };
+		8834A863153485AF77E75432 /* SeasonalWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F2199074297560D1FC8D1E /* SeasonalWidget.swift */; };
+		8E178EB9EA07D3116AC0DA2A /* AccessoryCircularView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BFB0D61135CE64E76E9D601 /* AccessoryCircularView.swift */; };
+		A4D0D147E4A2C8B0A523B121 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F8F8018A7BDB95D05405D72 /* Assets.xcassets */; };
+		A6527EBAF12CBD74D214B31C /* produce_data.json in Resources */ = {isa = PBXBuildFile; fileRef = 72D030874FB079AA58457636 /* produce_data.json */; };
+		A9DCEC268F3F2D903D9E3609 /* ProduceItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6B94D8678B1AA91EBCAE60 /* ProduceItem.swift */; };
+		AB0E0F588BE433B01EAA7A62 /* AccessoryRectangularView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73C5AE0D79893A398E4FB826 /* AccessoryRectangularView.swift */; };
+		B26AEB770D7268D9327C2D11 /* LocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35490FB56916ABCB8E423BC /* LocationService.swift */; };
+		B4866786A9EDEC6D1CE54C32 /* SeasonalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0383DC056C828587F7117D69 /* SeasonalData.swift */; };
+		BF3EE2D35FC611C2967D55FB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8037330956273742C6D9BA70 /* Extensions.swift */; };
+		C0B47199128D202F21CB2CDB /* Region.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31247FBBA982F9873E46C53A /* Region.swift */; };
+		C5AC822B13A0D79E9F7B7DCF /* SharedConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45FC67ECE7D7327B3DF14BD /* SharedConstants.swift */; };
+		C92830A6BDA6FEA592F58281 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10D3EE11E929F1F454005806 /* Assets.xcassets */; };
+		C9B10C1AA620B029595202D0 /* SeasonalWidgetEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CECC3FBD192875F80227EF /* SeasonalWidgetEntry.swift */; };
+		CC52F6F9076D2D7598D37B51 /* MediumWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6808F719CA1284A716219638 /* MediumWidgetView.swift */; };
+		D1FC512D335833C81E4860BF /* SeasonCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D291F3DCB9BE00770334A9E7 /* SeasonCalendarView.swift */; };
+		DF16946E64554F35718DD4D9 /* SeasonalWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F1E08CC30570B7D08F50CA /* SeasonalWidgetBundle.swift */; };
+		E3A93508CA03460FD22D3DA0 /* SeasonalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0383DC056C828587F7117D69 /* SeasonalData.swift */; };
+		EA69EE4B5F9EE8385D3B796D /* SeasonalTimelineProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C76F4998B157820A6B28514 /* SeasonalTimelineProvider.swift */; };
+		F1245B87118052C5853FC37B /* SeasonalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 342FBDBD3796D0B50F7FECD4 /* SeasonalApp.swift */; };
+		F4448F5C399747C15508DCF7 /* SeasonalWidgetEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17EB87DF7E5F00D42B0EF3B3 /* SeasonalWidgetEntryView.swift */; };
+		FCA8A27AF694E8C53A53B30F /* SmallWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25356E5E6E6F3E0FE501916 /* SmallWidgetView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C805D1747C313AA2E21450C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9C7CF0E22C972BEC594166CD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 81282B2555EB7B30923087DE;
+			remoteInfo = SeasonalWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B299BDAE4AFD036491B5F4C7 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				23C74A4505F54B281C1EE7DD /* SeasonalWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0383DC056C828587F7117D69 /* SeasonalData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalData.swift; sourceTree = "<group>"; };
+		0AA6C7B4BA049D95A2B31777 /* SharedDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedDataManager.swift; sourceTree = "<group>"; };
+		10D3EE11E929F1F454005806 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		17EB87DF7E5F00D42B0EF3B3 /* SeasonalWidgetEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalWidgetEntryView.swift; sourceTree = "<group>"; };
+		22F2199074297560D1FC8D1E /* SeasonalWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalWidget.swift; sourceTree = "<group>"; };
+		275259D6E62866814C87C10E /* ProduceDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduceDetailView.swift; sourceTree = "<group>"; };
+		2AEB2A6B3A217C6A535E042A /* LargeWidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeWidgetView.swift; sourceTree = "<group>"; };
+		2BFB0D61135CE64E76E9D601 /* AccessoryCircularView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessoryCircularView.swift; sourceTree = "<group>"; };
+		31247FBBA982F9873E46C53A /* Region.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Region.swift; sourceTree = "<group>"; };
+		342FBDBD3796D0B50F7FECD4 /* SeasonalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalApp.swift; sourceTree = "<group>"; };
+		35DFA6637C2435932C4A05C8 /* ProduceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduceListView.swift; sourceTree = "<group>"; };
+		4A7B9B89176D83725ACF0F80 /* RipenessTipCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RipenessTipCard.swift; sourceTree = "<group>"; };
+		4F8F8018A7BDB95D05405D72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5C6B94D8678B1AA91EBCAE60 /* ProduceItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduceItem.swift; sourceTree = "<group>"; };
+		5C6D0482D5DA82FC7C7EB2E2 /* Seasonal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Seasonal.entitlements; sourceTree = "<group>"; };
+		5C76F4998B157820A6B28514 /* SeasonalTimelineProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalTimelineProvider.swift; sourceTree = "<group>"; };
+		6808F719CA1284A716219638 /* MediumWidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumWidgetView.swift; sourceTree = "<group>"; };
+		72D030874FB079AA58457636 /* produce_data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = produce_data.json; sourceTree = "<group>"; };
+		73C5AE0D79893A398E4FB826 /* AccessoryRectangularView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessoryRectangularView.swift; sourceTree = "<group>"; };
+		78755E9A17FA7616D23AC4EB /* ProduceCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduceCardView.swift; sourceTree = "<group>"; };
+		8037330956273742C6D9BA70 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		819AFE1E7A3FECCCA00A5D62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		88CECC3FBD192875F80227EF /* SeasonalWidgetEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalWidgetEntry.swift; sourceTree = "<group>"; };
+		A1F1E08CC30570B7D08F50CA /* SeasonalWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonalWidgetBundle.swift; sourceTree = "<group>"; };
+		A25356E5E6E6F3E0FE501916 /* SmallWidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallWidgetView.swift; sourceTree = "<group>"; };
+		A35490FB56916ABCB8E423BC /* LocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationService.swift; sourceTree = "<group>"; };
+		A45FC67ECE7D7327B3DF14BD /* SharedConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedConstants.swift; sourceTree = "<group>"; };
+		A8D9FEE2980E7403C4677CE9 /* SeasonalWidgetExtension.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = SeasonalWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		D28D545C3CB3AE393794139F /* ComingSoonChip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComingSoonChip.swift; sourceTree = "<group>"; };
+		D291F3DCB9BE00770334A9E7 /* SeasonCalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonCalendarView.swift; sourceTree = "<group>"; };
+		D55B3155838F30CD7EE1377C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		D81754731A3B78015D1A7FDC /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		EB7D4CF5F2EDB296B0286F50 /* SeasonalWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SeasonalWidget.entitlements; sourceTree = "<group>"; };
+		F41E7F12BA81DDF936E1ABF0 /* Seasonal.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Seasonal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD37EC6850BAF1A0DD25108A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		06AE63D0A16A044516F28EAD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2BFB0D61135CE64E76E9D601 /* AccessoryCircularView.swift */,
+				73C5AE0D79893A398E4FB826 /* AccessoryRectangularView.swift */,
+				2AEB2A6B3A217C6A535E042A /* LargeWidgetView.swift */,
+				6808F719CA1284A716219638 /* MediumWidgetView.swift */,
+				17EB87DF7E5F00D42B0EF3B3 /* SeasonalWidgetEntryView.swift */,
+				A25356E5E6E6F3E0FE501916 /* SmallWidgetView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1D3A2A40488B17203EF677DC /* SeasonalWidget */ = {
+			isa = PBXGroup;
+			children = (
+				10D3EE11E929F1F454005806 /* Assets.xcassets */,
+				819AFE1E7A3FECCCA00A5D62 /* Info.plist */,
+				5C76F4998B157820A6B28514 /* SeasonalTimelineProvider.swift */,
+				EB7D4CF5F2EDB296B0286F50 /* SeasonalWidget.entitlements */,
+				22F2199074297560D1FC8D1E /* SeasonalWidget.swift */,
+				A1F1E08CC30570B7D08F50CA /* SeasonalWidgetBundle.swift */,
+				88CECC3FBD192875F80227EF /* SeasonalWidgetEntry.swift */,
+				06AE63D0A16A044516F28EAD /* Views */,
+			);
+			path = SeasonalWidget;
+			sourceTree = "<group>";
+		};
+		46086FE0D956ACD8BDFF437A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FD37EC6850BAF1A0DD25108A /* ContentView.swift */,
+				275259D6E62866814C87C10E /* ProduceDetailView.swift */,
+				35DFA6637C2435932C4A05C8 /* ProduceListView.swift */,
+				D81754731A3B78015D1A7FDC /* SettingsView.swift */,
+				B0F980D74DA5F4322FA4F9F5 /* Components */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4DB6A5A19BFEE79C99E162B3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F41E7F12BA81DDF936E1ABF0 /* Seasonal.app */,
+				A8D9FEE2980E7403C4677CE9 /* SeasonalWidgetExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		98DB8503157C8425484FB1DF = {
+			isa = PBXGroup;
+			children = (
+				B6B5268A1EC675E2A8C4DCA1 /* Seasonal */,
+				1D3A2A40488B17203EF677DC /* SeasonalWidget */,
+				B2EB674D22905DFA4AF53BD6 /* Shared */,
+				4DB6A5A19BFEE79C99E162B3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B0F980D74DA5F4322FA4F9F5 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D28D545C3CB3AE393794139F /* ComingSoonChip.swift */,
+				78755E9A17FA7616D23AC4EB /* ProduceCardView.swift */,
+				4A7B9B89176D83725ACF0F80 /* RipenessTipCard.swift */,
+				D291F3DCB9BE00770334A9E7 /* SeasonCalendarView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		B2EB674D22905DFA4AF53BD6 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				8037330956273742C6D9BA70 /* Extensions.swift */,
+				5C6B94D8678B1AA91EBCAE60 /* ProduceItem.swift */,
+				31247FBBA982F9873E46C53A /* Region.swift */,
+				0383DC056C828587F7117D69 /* SeasonalData.swift */,
+				A45FC67ECE7D7327B3DF14BD /* SharedConstants.swift */,
+				0AA6C7B4BA049D95A2B31777 /* SharedDataManager.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		B6B5268A1EC675E2A8C4DCA1 /* Seasonal */ = {
+			isa = PBXGroup;
+			children = (
+				4F8F8018A7BDB95D05405D72 /* Assets.xcassets */,
+				D55B3155838F30CD7EE1377C /* Info.plist */,
+				5C6D0482D5DA82FC7C7EB2E2 /* Seasonal.entitlements */,
+				342FBDBD3796D0B50F7FECD4 /* SeasonalApp.swift */,
+				D60E4F24869732B99ECEBA50 /* Resources */,
+				CBE92E21EB62E3EECDDE61FE /* Services */,
+				46086FE0D956ACD8BDFF437A /* Views */,
+			);
+			path = Seasonal;
+			sourceTree = "<group>";
+		};
+		CBE92E21EB62E3EECDDE61FE /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				A35490FB56916ABCB8E423BC /* LocationService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D60E4F24869732B99ECEBA50 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72D030874FB079AA58457636 /* produce_data.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		81282B2555EB7B30923087DE /* SeasonalWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02CC5218DF1FE88D60AA39F3 /* Build configuration list for PBXNativeTarget "SeasonalWidgetExtension" */;
+			buildPhases = (
+				7F257FC0873B2BE9F5695A78 /* Sources */,
+				8B78B356AFDC6BA55A1E9CA2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SeasonalWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = SeasonalWidgetExtension;
+			productReference = A8D9FEE2980E7403C4677CE9 /* SeasonalWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		F36915093BF5A635AF10966B /* Seasonal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B1C442587D06BE0803784A98 /* Build configuration list for PBXNativeTarget "Seasonal" */;
+			buildPhases = (
+				76FFB48758490C84E8AE31A4 /* Sources */,
+				5D44AF050BD6F98949900ADC /* Resources */,
+				B299BDAE4AFD036491B5F4C7 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F2953B06BA45239E6C0BAC69 /* PBXTargetDependency */,
+			);
+			name = Seasonal;
+			packageProductDependencies = (
+			);
+			productName = Seasonal;
+			productReference = F41E7F12BA81DDF936E1ABF0 /* Seasonal.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9C7CF0E22C972BEC594166CD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = 863DE6AD6CE3850497E80355 /* Build configuration list for PBXProject "Seasonal" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 98DB8503157C8425484FB1DF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F36915093BF5A635AF10966B /* Seasonal */,
+				81282B2555EB7B30923087DE /* SeasonalWidgetExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5D44AF050BD6F98949900ADC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4D0D147E4A2C8B0A523B121 /* Assets.xcassets in Resources */,
+				A6527EBAF12CBD74D214B31C /* produce_data.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B78B356AFDC6BA55A1E9CA2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C92830A6BDA6FEA592F58281 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		76FFB48758490C84E8AE31A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29298F253EB95271CD5BAB97 /* ComingSoonChip.swift in Sources */,
+				46C7FEBCF36D4EB4E814D7EA /* ContentView.swift in Sources */,
+				BF3EE2D35FC611C2967D55FB /* Extensions.swift in Sources */,
+				B26AEB770D7268D9327C2D11 /* LocationService.swift in Sources */,
+				0EC3E667CF2453050F03834E /* ProduceCardView.swift in Sources */,
+				47E33D40318A4D62C6CBCE03 /* ProduceDetailView.swift in Sources */,
+				788045F313C51E9EEEDCC369 /* ProduceItem.swift in Sources */,
+				12ACEB666F5A8DA4632FE040 /* ProduceListView.swift in Sources */,
+				C0B47199128D202F21CB2CDB /* Region.swift in Sources */,
+				7A7783FF733F22B23781330B /* RipenessTipCard.swift in Sources */,
+				D1FC512D335833C81E4860BF /* SeasonCalendarView.swift in Sources */,
+				F1245B87118052C5853FC37B /* SeasonalApp.swift in Sources */,
+				B4866786A9EDEC6D1CE54C32 /* SeasonalData.swift in Sources */,
+				787EA089D4BE92162C11B69C /* SettingsView.swift in Sources */,
+				C5AC822B13A0D79E9F7B7DCF /* SharedConstants.swift in Sources */,
+				66977B622C21A70B653B1793 /* SharedDataManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F257FC0873B2BE9F5695A78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E178EB9EA07D3116AC0DA2A /* AccessoryCircularView.swift in Sources */,
+				AB0E0F588BE433B01EAA7A62 /* AccessoryRectangularView.swift in Sources */,
+				1C8406D85319345D618858D6 /* Extensions.swift in Sources */,
+				4F903EC0C9FBF99983E3CB98 /* LargeWidgetView.swift in Sources */,
+				CC52F6F9076D2D7598D37B51 /* MediumWidgetView.swift in Sources */,
+				A9DCEC268F3F2D903D9E3609 /* ProduceItem.swift in Sources */,
+				6329F7DA52A40DC88E341E35 /* Region.swift in Sources */,
+				E3A93508CA03460FD22D3DA0 /* SeasonalData.swift in Sources */,
+				EA69EE4B5F9EE8385D3B796D /* SeasonalTimelineProvider.swift in Sources */,
+				8834A863153485AF77E75432 /* SeasonalWidget.swift in Sources */,
+				DF16946E64554F35718DD4D9 /* SeasonalWidgetBundle.swift in Sources */,
+				C9B10C1AA620B029595202D0 /* SeasonalWidgetEntry.swift in Sources */,
+				F4448F5C399747C15508DCF7 /* SeasonalWidgetEntryView.swift in Sources */,
+				0E3F46254D061821B70B3727 /* SharedConstants.swift in Sources */,
+				7D349935FD76A999335C27AC /* SharedDataManager.swift in Sources */,
+				FCA8A27AF694E8C53A53B30F /* SmallWidgetView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F2953B06BA45239E6C0BAC69 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 81282B2555EB7B30923087DE /* SeasonalWidgetExtension */;
+			targetProxy = C805D1747C313AA2E21450C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		084CDF9F810C8749B8961993 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Seasonal/Seasonal.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Seasonal/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasonal.app;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		36C515B13314D2DAA7518B98 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		56D21263D99EEA7CE845F7BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SeasonalWidget/SeasonalWidget.entitlements;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SeasonalWidget/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasonal.app.widget;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8A4D182409E2C72C1B30B211 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Seasonal/Seasonal.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Seasonal/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasonal.app;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A3A076F200361EB32841BEDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = SeasonalWidget/SeasonalWidget.entitlements;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = SeasonalWidget/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasonal.app.widget;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CE4D3747074F381C29C5633C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		02CC5218DF1FE88D60AA39F3 /* Build configuration list for PBXNativeTarget "SeasonalWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A076F200361EB32841BEDD /* Debug */,
+				56D21263D99EEA7CE845F7BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		863DE6AD6CE3850497E80355 /* Build configuration list for PBXProject "Seasonal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE4D3747074F381C29C5633C /* Debug */,
+				36C515B13314D2DAA7518B98 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B1C442587D06BE0803784A98 /* Build configuration list for PBXNativeTarget "Seasonal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A4D182409E2C72C1B30B211 /* Debug */,
+				084CDF9F810C8749B8961993 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9C7CF0E22C972BEC594166CD /* Project object */;
+}
