@@ -2,9 +2,14 @@ import SwiftUI
 
 struct ProduceDetailView: View {
     let item: ProduceItem
+    @State private var isFavorite: Bool = false
 
     private var currentRegion: ProduceRegion {
         SharedDataManager.shared.currentRegion
+    }
+
+    private var currentMonth: Int {
+        Calendar.current.component(.month, from: Date())
     }
 
     private var seasonMonths: [Int] {
@@ -18,10 +23,22 @@ struct ProduceDetailView: View {
             VStack(spacing: 24) {
                 // Hero
                 VStack(spacing: 8) {
-                    Text(item.emoji)
-                        .font(.system(size: 80))
-                    Text(item.name)
-                        .font(.largeTitle.bold())
+                    ProduceIconView(item: item, size: 80)
+
+                    HStack(spacing: 8) {
+                        Text(item.name)
+                            .font(.largeTitle.bold())
+
+                        if item.isPeakSeason(for: currentRegion, month: currentMonth) {
+                            Text("Peak")
+                                .font(.caption2.bold())
+                                .foregroundStyle(.white)
+                                .padding(.horizontal, 8)
+                                .padding(.vertical, 3)
+                                .background(Color.orange, in: Capsule())
+                        }
+                    }
+
                     Text(item.category.rawValue.capitalized)
                         .font(.caption)
                         .fontWeight(.medium)
@@ -79,9 +96,39 @@ struct ProduceDetailView: View {
                 .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 12))
                 .padding(.horizontal)
 
+                // Seasonal Recipes Link
+                Button {
+                    let query = "seasonal \(item.name) recipes".addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? ""
+                    if let url = URL(string: "https://www.google.com/search?q=\(query)") {
+                        UIApplication.shared.open(url)
+                    }
+                } label: {
+                    Label("Find Seasonal Recipes", systemImage: "fork.knife")
+                        .font(.headline)
+                        .frame(maxWidth: .infinity)
+                        .padding()
+                        .background(Color(hex: item.colorHex).opacity(0.15), in: RoundedRectangle(cornerRadius: 12))
+                }
+                .buttonStyle(.plain)
+                .padding(.horizontal)
+
                 Spacer(minLength: 20)
             }
         }
         .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            ToolbarItem(placement: .topBarTrailing) {
+                Button {
+                    isFavorite.toggle()
+                    FavoritesManager.shared.toggle(item.id)
+                } label: {
+                    Image(systemName: isFavorite ? "heart.fill" : "heart")
+                        .foregroundStyle(isFavorite ? .red : .secondary)
+                }
+            }
+        }
+        .onAppear {
+            isFavorite = FavoritesManager.shared.isFavorite(item.id)
+        }
     }
 }

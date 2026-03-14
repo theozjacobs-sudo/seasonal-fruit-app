@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ProduceListView: View {
     @EnvironmentObject var locationService: LocationService
+    @ObservedObject private var favorites = FavoritesManager.shared
     @State private var selectedCategory: ProduceCategory? = nil
     @State private var searchText = ""
 
@@ -13,8 +14,12 @@ struct ProduceListView: View {
         Calendar.current.component(.month, from: Date())
     }
 
-    private var inSeasonItems: [ProduceItem] {
+    private var allInSeason: [ProduceItem] {
         SeasonalData.shared.inSeason(for: currentRegion, month: currentMonth)
+    }
+
+    private var inSeasonItems: [ProduceItem] {
+        allInSeason
             .filter { item in
                 if let cat = selectedCategory { return item.category == cat }
                 return true
@@ -22,6 +27,14 @@ struct ProduceListView: View {
             .filter { item in
                 searchText.isEmpty || item.name.localizedCaseInsensitiveContains(searchText)
             }
+    }
+
+    private var favoriteInSeason: [ProduceItem] {
+        inSeasonItems.filter { favorites.isFavorite($0.id) }
+    }
+
+    private var nonFavoriteInSeason: [ProduceItem] {
+        inSeasonItems.filter { !favorites.isFavorite($0.id) }
     }
 
     private var comingSoonItems: [ProduceItem] {
@@ -53,7 +66,6 @@ struct ProduceListView: View {
                 .pickerStyle(.segmented)
                 .padding(.horizontal)
 
-                // In Season grid
                 if inSeasonItems.isEmpty {
                     ContentUnavailableView(
                         "Nothing Found",
@@ -62,10 +74,39 @@ struct ProduceListView: View {
                     )
                     .padding(.top, 40)
                 } else {
+                    // Favorites section
+                    if !favoriteInSeason.isEmpty {
+                        VStack(alignment: .leading, spacing: 8) {
+                            Label("Favorites", systemImage: "heart.fill")
+                                .font(.headline)
+                                .foregroundStyle(.red)
+                                .padding(.horizontal)
+
+                            LazyVGrid(columns: [
+                                GridItem(.adaptive(minimum: 100), spacing: 12)
+                            ], spacing: 12) {
+                                ForEach(favoriteInSeason) { item in
+                                    NavigationLink(value: item) {
+                                        ProduceCardView(item: item)
+                                    }
+                                    .buttonStyle(.plain)
+                                }
+                            }
+                            .padding(.horizontal)
+                        }
+
+                        if !nonFavoriteInSeason.isEmpty {
+                            Label("All In Season", systemImage: "leaf.fill")
+                                .font(.headline)
+                                .padding(.horizontal)
+                        }
+                    }
+
+                    // Main grid
                     LazyVGrid(columns: [
                         GridItem(.adaptive(minimum: 100), spacing: 12)
                     ], spacing: 12) {
-                        ForEach(inSeasonItems) { item in
+                        ForEach(nonFavoriteInSeason) { item in
                             NavigationLink(value: item) {
                                 ProduceCardView(item: item)
                             }

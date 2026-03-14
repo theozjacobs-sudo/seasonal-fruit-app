@@ -95,6 +95,15 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -120,7 +129,8 @@
       }
     ],
     "funFact": "There are over 7,500 apple varieties grown worldwide, though most grocery stores carry only about 5 to 10.",
-    "storageTip": "Store in the crisper drawer of the refrigerator for up to 6 weeks. Keep away from other produce, as apples release ethylene gas that speeds ripening."
+    "storageTip": "Store in the crisper drawer of the refrigerator for up to 6 weeks. Keep away from other produce, as apples release ethylene gas that speeds ripening.",
+    "iconAsset": "icon_apple"
   },
   {
     "id": "apricot",
@@ -209,6 +219,13 @@
           6,
           7
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8
+        ]
       }
     ],
     "ripenessTips": [
@@ -229,7 +246,8 @@
       }
     ],
     "funFact": "Apricots were cultivated in China over 4,000 years ago before traveling along the Silk Road to the Mediterranean.",
-    "storageTip": "Ripen at room temperature stem-side down, then refrigerate for up to 5 days. Do not wash until ready to eat."
+    "storageTip": "Ripen at room temperature stem-side down, then refrigerate for up to 5 days. Do not wash until ready to eat.",
+    "iconAsset": "icon_apricot"
   },
   {
     "id": "avocado",
@@ -379,7 +397,8 @@
       }
     ],
     "funFact": "Avocados do not ripen on the tree; farmers can leave them hanging for months as a form of natural storage.",
-    "storageTip": "Ripen on the counter in 2 to 5 days. To speed it up, place in a paper bag with a banana. Once ripe, refrigerate for up to 3 days."
+    "storageTip": "Ripen on the counter in 2 to 5 days. To speed it up, place in a paper bag with a banana. Once ripe, refrigerate for up to 3 days.",
+    "iconAsset": "icon_avocado"
   },
   {
     "id": "banana",
@@ -492,7 +511,8 @@
       }
     ],
     "funFact": "Bananas are technically berries, while strawberries are not; botanists classify them based on seed and flower structure.",
-    "storageTip": "Store at room temperature until ripe. To slow ripening, wrap the stem in plastic wrap. Refrigerating turns the peel brown but the fruit inside stays good for several days."
+    "storageTip": "Store at room temperature until ripe. To slow ripening, wrap the stem in plastic wrap. Refrigerating turns the peel brown but the fruit inside stays good for several days.",
+    "iconAsset": "icon_banana"
   },
   {
     "id": "blueberry",
@@ -576,6 +596,13 @@
           4,
           5
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8
+        ]
       }
     ],
     "ripenessTips": [
@@ -596,7 +623,8 @@
       }
     ],
     "funFact": "Blueberries are one of the only natural foods that are truly blue; the color comes from anthocyanin pigments.",
-    "storageTip": "Do not wash until ready to eat. Store in the refrigerator in a single layer on a paper towel for up to 10 days. Freeze on a sheet pan before transferring to a bag."
+    "storageTip": "Do not wash until ready to eat. Store in the refrigerator in a single layer on a paper towel for up to 10 days. Freeze on a sheet pan before transferring to a bag.",
+    "iconAsset": "icon_blueberry"
   },
   {
     "id": "cantaloupe",
@@ -721,6 +749,14 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -746,7 +782,8 @@
       }
     ],
     "funFact": "What Americans call cantaloupe is actually a muskmelon; true cantaloupes have a smoother rind and are more common in Europe.",
-    "storageTip": "Ripen at room temperature until fragrant, then refrigerate and eat within 3 to 5 days. Cut melon should be wrapped and eaten within 2 days."
+    "storageTip": "Ripen at room temperature until fragrant, then refrigerate and eat within 3 to 5 days. Cut melon should be wrapped and eaten within 2 days.",
+    "iconAsset": "icon_cantaloupe"
   },
   {
     "id": "cherry",
@@ -828,6 +865,13 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7
+        ]
       }
     ],
     "ripenessTips": [
@@ -848,7 +892,8 @@
       }
     ],
     "funFact": "Cherry trees are related to roses, almonds, and peaches, all belonging to the Prunus genus in the Rosaceae family.",
-    "storageTip": "Store unwashed in a single layer in the refrigerator for up to a week. Bring to room temperature before eating for best flavor. Freeze pitted cherries on a sheet pan."
+    "storageTip": "Store unwashed in a single layer in the refrigerator for up to a week. Bring to room temperature before eating for best flavor. Freeze pitted cherries on a sheet pan.",
+    "iconAsset": "icon_cherry"
   },
   {
     "id": "cranberry",
@@ -881,6 +926,14 @@
           10,
           11
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -901,7 +954,8 @@
       }
     ],
     "funFact": "Cranberries have small air pockets inside, which is why they float in water and can be wet-harvested by flooding the bogs.",
-    "storageTip": "Refrigerate in their original bag for up to 2 months. Freeze in a single layer, then bag them; frozen cranberries last up to a year."
+    "storageTip": "Refrigerate in their original bag for up to 2 months. Freeze in a single layer, then bag them; frozen cranberries last up to a year.",
+    "iconAsset": "icon_cranberry"
   },
   {
     "id": "fig",
@@ -977,6 +1031,13 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -997,7 +1058,8 @@
       }
     ],
     "funFact": "Figs are technically inverted flowers; the tiny seeds inside are the actual fruits of the plant.",
-    "storageTip": "Figs are highly perishable. Store on a plate lined with paper towel in the refrigerator and eat within 2 to 3 days of purchase."
+    "storageTip": "Figs are highly perishable. Store on a plate lined with paper towel in the refrigerator and eat within 2 to 3 days of purchase.",
+    "iconAsset": "icon_fig"
   },
   {
     "id": "grape",
@@ -1121,6 +1183,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -1141,7 +1211,8 @@
       }
     ],
     "funFact": "A single grapevine can produce enough fruit to make about 10 bottles of wine, and some vines live for over 100 years.",
-    "storageTip": "Store unwashed in a ventilated bag or container in the refrigerator for up to 2 weeks. Wash just before eating."
+    "storageTip": "Store unwashed in a ventilated bag or container in the refrigerator for up to 2 weeks. Wash just before eating.",
+    "iconAsset": "icon_grape"
   },
   {
     "id": "grapefruit",
@@ -1238,7 +1309,8 @@
       }
     ],
     "funFact": "Grapefruit got its name because it grows in clusters on the tree, similar to how grapes grow in bunches.",
-    "storageTip": "Store at room temperature for about a week, or refrigerate for up to 6 weeks. Bring to room temperature before eating for the juiciest flavor."
+    "storageTip": "Store at room temperature for about a week, or refrigerate for up to 6 weeks. Bring to room temperature before eating for the juiciest flavor.",
+    "iconAsset": "icon_grapefruit"
   },
   {
     "id": "kiwi",
@@ -1321,7 +1393,8 @@
       }
     ],
     "funFact": "Kiwis were originally called Chinese gooseberries; New Zealand growers renamed them after their national bird for marketing appeal.",
-    "storageTip": "Ripen at room temperature away from sunlight. Once ripe, store in the refrigerator for up to 4 weeks. To speed ripening, place in a bag with a banana."
+    "storageTip": "Ripen at room temperature away from sunlight. Once ripe, store in the refrigerator for up to 4 weeks. To speed ripening, place in a bag with a banana.",
+    "iconAsset": "icon_kiwi"
   },
   {
     "id": "lemon",
@@ -1491,7 +1564,8 @@
       }
     ],
     "funFact": "Lemon juice is a natural preservative; its citric acid prevents cut fruits like apples and avocados from browning.",
-    "storageTip": "Store at room temperature for a week, or in a sealed bag in the refrigerator for up to a month. A whole lemon kept in water in the fridge stays juicy even longer."
+    "storageTip": "Store at room temperature for a week, or in a sealed bag in the refrigerator for up to a month. A whole lemon kept in water in the fridge stays juicy even longer.",
+    "iconAsset": "icon_lemon"
   },
   {
     "id": "mango",
@@ -1597,7 +1671,8 @@
       }
     ],
     "funFact": "Mangoes are the most consumed fruit in the world, with over 400 varieties grown across tropical regions.",
-    "storageTip": "Ripen at room temperature until fragrant and slightly soft. Once ripe, refrigerate for up to 5 days. Cut mango can be frozen for smoothies."
+    "storageTip": "Ripen at room temperature until fragrant and slightly soft. Once ripe, refrigerate for up to 5 days. Cut mango can be frozen for smoothies.",
+    "iconAsset": "icon_mango"
   },
   {
     "id": "orange",
@@ -1759,7 +1834,8 @@
       }
     ],
     "funFact": "The color orange was actually named after the fruit, not the other way around; before that, English speakers called the color 'geoluhread' (yellow-red).",
-    "storageTip": "Store at room temperature for about a week, or in the refrigerator for up to 3 weeks. Roll on the counter before juicing to get more juice out."
+    "storageTip": "Store at room temperature for about a week, or in the refrigerator for up to 3 weeks. Roll on the counter before juicing to get more juice out.",
+    "iconAsset": "icon_orange"
   },
   {
     "id": "peach",
@@ -1861,6 +1937,14 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -1881,7 +1965,8 @@
       }
     ],
     "funFact": "Despite being called Persian apples in many languages, peaches originated in China where they have been cultivated for over 8,000 years.",
-    "storageTip": "Ripen at room temperature stem-side down. Once ripe, refrigerate for up to 5 days. Cold peaches lose some flavor, so bring back to room temperature before eating."
+    "storageTip": "Ripen at room temperature stem-side down. Once ripe, refrigerate for up to 5 days. Cold peaches lose some flavor, so bring back to room temperature before eating.",
+    "iconAsset": "icon_peach"
   },
   {
     "id": "pear",
@@ -1984,6 +2069,14 @@
           10,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -2004,7 +2097,8 @@
       }
     ],
     "funFact": "Pears are one of the few fruits that ripen better off the tree; left on the branch they develop a gritty texture from stone cells.",
-    "storageTip": "Buy firm and ripen at room temperature for a few days. Once the neck yields to gentle pressure, refrigerate for up to 5 days."
+    "storageTip": "Buy firm and ripen at room temperature for a few days. Once the neck yields to gentle pressure, refrigerate for up to 5 days.",
+    "iconAsset": "icon_pear"
   },
   {
     "id": "persimmon",
@@ -2059,6 +2153,13 @@
           4,
           5
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -2079,7 +2180,8 @@
       }
     ],
     "funFact": "Unripe Hachiya persimmons contain high levels of tannins that cause an intense, mouth-puckering astringency that vanishes when fully ripe.",
-    "storageTip": "Ripen Hachiyas at room temperature until very soft, which can take a week or more. Fuyu types store for a few weeks in the fridge. Freeze puree for baking."
+    "storageTip": "Ripen Hachiyas at room temperature until very soft, which can take a week or more. Fuyu types store for a few weeks in the fridge. Freeze puree for baking.",
+    "iconAsset": "icon_persimmon"
   },
   {
     "id": "pineapple",
@@ -2196,7 +2298,8 @@
       }
     ],
     "funFact": "A pineapple is actually a cluster of 100 to 200 individual berries fused together around a central core.",
-    "storageTip": "A pineapple will not ripen further after picking; it only gets softer. Store upside down at room temperature for 1 to 2 days to distribute sweetness. Refrigerate cut pineapple for up to 5 days."
+    "storageTip": "A pineapple will not ripen further after picking; it only gets softer. Store upside down at room temperature for 1 to 2 days to distribute sweetness. Refrigerate cut pineapple for up to 5 days.",
+    "iconAsset": "icon_pineapple"
   },
   {
     "id": "pomegranate",
@@ -2299,7 +2402,8 @@
       }
     ],
     "funFact": "A single pomegranate contains about 600 to 800 arils (seed pods), each wrapped in a jewel-like sac of juice.",
-    "storageTip": "Whole pomegranates last up to 2 months in the refrigerator. Store arils in an airtight container in the fridge for up to a week, or freeze them for months."
+    "storageTip": "Whole pomegranates last up to 2 months in the refrigerator. Store arils in an airtight container in the fridge for up to a week, or freeze them for months.",
+    "iconAsset": "icon_pomegranate"
   },
   {
     "id": "strawberry",
@@ -2415,6 +2519,13 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7
+        ]
       }
     ],
     "ripenessTips": [
@@ -2440,7 +2551,8 @@
       }
     ],
     "funFact": "Strawberries are the only fruit that wears its seeds on the outside, with about 200 tiny seeds on each berry.",
-    "storageTip": "Do not wash until ready to eat. Store in a single layer on paper towels in the refrigerator for 3 to 5 days. Moldy berries should be removed immediately as mold spreads fast."
+    "storageTip": "Do not wash until ready to eat. Store in a single layer on paper towels in the refrigerator for 3 to 5 days. Moldy berries should be removed immediately as mold spreads fast.",
+    "iconAsset": "icon_strawberry"
   },
   {
     "id": "watermelon",
@@ -2583,6 +2695,14 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -2608,7 +2728,8 @@
       }
     ],
     "funFact": "Watermelon is both a fruit and a vegetable; it belongs to the cucumber and squash family (Cucurbitaceae).",
-    "storageTip": "Store whole at room temperature for up to 2 weeks. Cut watermelon should be refrigerated in an airtight container and eaten within 5 days."
+    "storageTip": "Store whole at room temperature for up to 2 weeks. Cut watermelon should be refrigerated in an airtight container and eaten within 5 days.",
+    "iconAsset": "icon_watermelon"
   },
   {
     "id": "artichoke",
@@ -2672,7 +2793,8 @@
       }
     ],
     "funFact": "The part of the artichoke we eat is actually an immature flower bud; if left unharvested, it blooms into a large, purple thistle.",
-    "storageTip": "Store unwashed in a plastic bag in the refrigerator for up to a week. Sprinkle a few drops of water in the bag to keep them hydrated."
+    "storageTip": "Store unwashed in a plastic bag in the refrigerator for up to a week. Sprinkle a few drops of water in the bag to keep them hydrated.",
+    "iconAsset": "icon_artichoke"
   },
   {
     "id": "asparagus",
@@ -2744,6 +2866,14 @@
         "months": [
           3
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          6
+        ]
       }
     ],
     "ripenessTips": [
@@ -2764,7 +2894,8 @@
       }
     ],
     "funFact": "Asparagus is one of the fastest growing vegetables, capable of growing up to 10 inches in a single day under ideal conditions.",
-    "storageTip": "Treat like cut flowers: trim the ends and stand upright in a jar with an inch of water, covered loosely with a plastic bag. Refrigerate and use within 3 to 5 days."
+    "storageTip": "Treat like cut flowers: trim the ends and stand upright in a jar with an inch of water, covered loosely with a plastic bag. Refrigerate and use within 3 to 5 days.",
+    "iconAsset": "icon_asparagus"
   },
   {
     "id": "beetroot",
@@ -2856,6 +2987,16 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -2876,7 +3017,8 @@
       }
     ],
     "funFact": "Beets were originally cultivated for their greens only; eating the root did not become popular until the 1500s in Germany.",
-    "storageTip": "Remove greens immediately as they draw moisture from the root. Store unwashed roots in a plastic bag in the refrigerator for up to 3 weeks. Cook greens separately within 2 days."
+    "storageTip": "Remove greens immediately as they draw moisture from the root. Store unwashed roots in a plastic bag in the refrigerator for up to 3 weeks. Cook greens separately within 2 days.",
+    "iconAsset": "icon_beetroot"
   },
   {
     "id": "bell_pepper",
@@ -3015,6 +3157,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -3040,7 +3190,8 @@
       }
     ],
     "funFact": "Green bell peppers are actually unripe; if left on the plant they turn yellow, then orange, then red, getting sweeter at each stage.",
-    "storageTip": "Store unwashed in the crisper drawer for up to 2 weeks. Cut peppers should be stored in an airtight container and used within 3 days."
+    "storageTip": "Store unwashed in the crisper drawer for up to 2 weeks. Cut peppers should be stored in an airtight container and used within 3 days.",
+    "iconAsset": "icon_bell_pepper"
   },
   {
     "id": "broccoli",
@@ -3152,6 +3303,15 @@
         "months": [
           3
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -3172,7 +3332,8 @@
       }
     ],
     "funFact": "Broccoli is a human invention, bred by Italian farmers from wild cabbage plants starting in the 6th century BCE.",
-    "storageTip": "Store unwashed in a loose plastic bag in the refrigerator for up to 5 days. Do not seal tightly as broccoli needs some airflow. Do not wash before storing."
+    "storageTip": "Store unwashed in a loose plastic bag in the refrigerator for up to 5 days. Do not seal tightly as broccoli needs some airflow. Do not wash before storing.",
+    "iconAsset": "icon_broccoli"
   },
   {
     "id": "brussels_sprouts",
@@ -3228,6 +3389,14 @@
           7,
           8
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -3248,7 +3417,8 @@
       }
     ],
     "funFact": "Brussels sprouts taste less bitter after a frost because the cold triggers the plant to convert starches into sugars as a natural antifreeze.",
-    "storageTip": "Store in a bag in the refrigerator for up to a week. If still on the stalk, they keep even longer. Trim and halve right before cooking."
+    "storageTip": "Store in a bag in the refrigerator for up to a week. If still on the stalk, they keep even longer. Trim and halve right before cooking.",
+    "iconAsset": "icon_brussels_sprouts"
   },
   {
     "id": "cabbage",
@@ -3384,6 +3554,16 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -3404,7 +3584,8 @@
       }
     ],
     "funFact": "Cabbage was one of the first vegetables cultivated by Europeans, and sauerkraut was reportedly fed to workers building the Great Wall of China.",
-    "storageTip": "Whole, unwashed cabbage will keep in the crisper drawer for up to 2 months. Once cut, wrap tightly in plastic wrap and use within 5 days."
+    "storageTip": "Whole, unwashed cabbage will keep in the crisper drawer for up to 2 months. Once cut, wrap tightly in plastic wrap and use within 5 days.",
+    "iconAsset": "icon_cabbage"
   },
   {
     "id": "carrot",
@@ -3541,6 +3722,17 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -3561,7 +3753,8 @@
       }
     ],
     "funFact": "Carrots were originally purple and yellow; the orange variety was developed in the Netherlands in the 17th century.",
-    "storageTip": "Remove greens immediately as they pull moisture from the root. Store in a sealed bag in the crisper drawer for up to 3 weeks. Limp carrots can be revived by soaking in ice water."
+    "storageTip": "Remove greens immediately as they pull moisture from the root. Store in a sealed bag in the crisper drawer for up to 3 weeks. Limp carrots can be revived by soaking in ice water.",
+    "iconAsset": "icon_carrot"
   },
   {
     "id": "cauliflower",
@@ -3655,6 +3848,15 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -3675,7 +3877,8 @@
       }
     ],
     "funFact": "Cauliflower is available in purple, orange, and green varieties, each with slightly different nutritional profiles and flavors.",
-    "storageTip": "Store whole, unwashed, stem-side up in a loosely closed bag in the refrigerator for up to a week. Cut florets last about 4 days."
+    "storageTip": "Store whole, unwashed, stem-side up in a loosely closed bag in the refrigerator for up to a week. Cut florets last about 4 days.",
+    "iconAsset": "icon_cauliflower"
   },
   {
     "id": "corn",
@@ -3821,6 +4024,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -3841,7 +4052,8 @@
       }
     ],
     "funFact": "Corn always has an even number of rows on each ear, typically between 12 and 16, due to the way the kernels develop in pairs.",
-    "storageTip": "Eat as soon as possible; corn starts converting sugar to starch within hours of picking. Store in the husk in the refrigerator for up to 3 days. Do not shuck until ready to cook."
+    "storageTip": "Eat as soon as possible; corn starts converting sugar to starch within hours of picking. Store in the husk in the refrigerator for up to 3 days. Do not shuck until ready to cook.",
+    "iconAsset": "icon_corn"
   },
   {
     "id": "cucumber",
@@ -3988,6 +4200,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -4008,7 +4228,8 @@
       }
     ],
     "funFact": "Cucumbers are 96 percent water, making them one of the most hydrating foods available.",
-    "storageTip": "Wrap individually in a paper towel and store in a loose bag in the refrigerator for up to a week. Keep away from tomatoes and bananas which speed deterioration."
+    "storageTip": "Wrap individually in a paper towel and store in a loose bag in the refrigerator for up to a week. Keep away from tomatoes and bananas which speed deterioration.",
+    "iconAsset": "icon_cucumber"
   },
   {
     "id": "eggplant",
@@ -4143,6 +4364,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -4168,7 +4397,8 @@
       }
     ],
     "funFact": "Eggplants are technically berries and members of the nightshade family, along with tomatoes, potatoes, and tobacco.",
-    "storageTip": "Store at room temperature and use within 2 days, or refrigerate in the crisper drawer for up to 5 days. Cold temperatures can damage the texture if stored too long."
+    "storageTip": "Store at room temperature and use within 2 days, or refrigerate in the crisper drawer for up to 5 days. Cold temperatures can damage the texture if stored too long.",
+    "iconAsset": "icon_eggplant"
   },
   {
     "id": "green_beans",
@@ -4302,6 +4532,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -4322,7 +4560,8 @@
       }
     ],
     "funFact": "Green beans were one of the first New World foods to be adopted in Europe after Spanish explorers brought them back in the 16th century.",
-    "storageTip": "Store unwashed in a plastic bag in the crisper drawer for up to 7 days. To freeze, blanch for 3 minutes first, then ice-bath and dry before bagging."
+    "storageTip": "Store unwashed in a plastic bag in the crisper drawer for up to 7 days. To freeze, blanch for 3 minutes first, then ice-bath and dry before bagging.",
+    "iconAsset": "icon_green_beans"
   },
   {
     "id": "kale",
@@ -4407,6 +4646,17 @@
           2,
           3
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -4427,7 +4677,8 @@
       }
     ],
     "funFact": "Kale becomes sweeter after exposure to frost, similar to Brussels sprouts, as the plant converts starch to sugar to protect its cells.",
-    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the refrigerator for up to a week. Do not wash before storing as moisture accelerates decay."
+    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the refrigerator for up to a week. Do not wash before storing as moisture accelerates decay.",
+    "iconAsset": "icon_kale"
   },
   {
     "id": "peas",
@@ -4517,6 +4768,13 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6
+        ]
       }
     ],
     "ripenessTips": [
@@ -4537,7 +4795,8 @@
       }
     ],
     "funFact": "Gregor Mendel used peas to discover the fundamental laws of genetics in the 1860s, making the humble pea foundational to modern biology.",
-    "storageTip": "Eat as quickly as possible; like corn, peas begin converting sugar to starch immediately after picking. Refrigerate in a bag for up to 3 days. Freeze quickly if not eating right away."
+    "storageTip": "Eat as quickly as possible; like corn, peas begin converting sugar to starch immediately after picking. Refrigerate in a bag for up to 3 days. Freeze quickly if not eating right away.",
+    "iconAsset": "icon_peas"
   },
   {
     "id": "pumpkin",
@@ -4625,6 +4884,13 @@
           10,
           11
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -4650,7 +4916,8 @@
       }
     ],
     "funFact": "Pumpkins are about 90 percent water and are technically a fruit because they develop from the flowering part of the plant and contain seeds.",
-    "storageTip": "Cure in a warm spot for 10 days, then store in a cool, dry place for up to 3 months. Cut pumpkin can be refrigerated for a week or frozen for months."
+    "storageTip": "Cure in a warm spot for 10 days, then store in a cool, dry place for up to 3 months. Cut pumpkin can be refrigerated for a week or frozen for months.",
+    "iconAsset": "icon_pumpkin"
   },
   {
     "id": "radish",
@@ -4739,6 +5006,15 @@
           7,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -4759,7 +5035,8 @@
       }
     ],
     "funFact": "Radishes were among the first European crops planted in the Americas and were even grown by astronauts on the International Space Station.",
-    "storageTip": "Remove greens right away and store radishes in a bag in the refrigerator for up to 2 weeks. To restore crispness, soak in ice water for 30 minutes."
+    "storageTip": "Remove greens right away and store radishes in a bag in the refrigerator for up to 2 weeks. To restore crispness, soak in ice water for 30 minutes.",
+    "iconAsset": "icon_radish"
   },
   {
     "id": "spinach",
@@ -4900,6 +5177,16 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -4920,7 +5207,8 @@
       }
     ],
     "funFact": "Spinach loses about 90 percent of its volume when cooked because the heat breaks down the cell walls and releases all the water stored inside.",
-    "storageTip": "Store in a bag lined with paper towels in the refrigerator for up to 5 days. Do not wash before storing. Excess moisture is the top cause of quick spoilage."
+    "storageTip": "Store in a bag lined with paper towels in the refrigerator for up to 5 days. Do not wash before storing. Excess moisture is the top cause of quick spoilage.",
+    "iconAsset": "icon_spinach"
   },
   {
     "id": "sweet_potato",
@@ -5023,6 +5311,13 @@
         "months": [
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -5043,7 +5338,8 @@
       }
     ],
     "funFact": "Despite the name, sweet potatoes are not related to regular potatoes at all; they belong to the morning glory family.",
-    "storageTip": "Store in a cool, dark, well-ventilated place (not the refrigerator) for up to a month. Cold temperatures convert starches to sugars and alter the texture."
+    "storageTip": "Store in a cool, dark, well-ventilated place (not the refrigerator) for up to a month. Cold temperatures convert starches to sugars and alter the texture.",
+    "iconAsset": "icon_sweet_potato"
   },
   {
     "id": "tomato",
@@ -5219,6 +5515,15 @@
           11,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -5244,7 +5549,8 @@
       }
     ],
     "funFact": "Tomatoes were once considered poisonous in Europe because wealthy people who ate them from pewter plates got sick from the lead leaching into the acidic juice.",
-    "storageTip": "Never refrigerate unripe tomatoes; cold kills the flavor enzymes permanently. Store stem-side down at room temperature. Once fully ripe, eat within a day or two."
+    "storageTip": "Never refrigerate unripe tomatoes; cold kills the flavor enzymes permanently. Store stem-side down at room temperature. Once fully ripe, eat within a day or two.",
+    "iconAsset": "icon_tomato"
   },
   {
     "id": "zucchini",
@@ -5342,6 +5648,14 @@
           9,
           10
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
       }
     ],
     "ripenessTips": [
@@ -5362,7 +5676,8 @@
       }
     ],
     "funFact": "A single zucchini plant can produce 6 to 10 pounds of fruit in a season, which is why gardeners are famously known for giving away their surplus.",
-    "storageTip": "Store unwashed in a perforated bag in the crisper drawer for up to a week. Do not cut until ready to use, as exposed flesh deteriorates quickly."
+    "storageTip": "Store unwashed in a perforated bag in the crisper drawer for up to a week. Do not cut until ready to use, as exposed flesh deteriorates quickly.",
+    "iconAsset": "icon_zucchini"
   },
   {
     "id": "lettuce",
@@ -5496,6 +5811,15 @@
           10,
           12
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
       }
     ],
     "ripenessTips": [
@@ -5516,7 +5840,8 @@
       }
     ],
     "funFact": "Ancient Egyptians first cultivated lettuce not for eating but for the oil from its seeds; it was later adopted as a food crop by the Greeks and Romans.",
-    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the crisper drawer for up to a week. Keep away from apples and bananas which cause browning."
+    "storageTip": "Wrap in a damp paper towel and store in a loose bag in the crisper drawer for up to a week. Keep away from apples and bananas which cause browning.",
+    "iconAsset": "icon_lettuce"
   },
   {
     "id": "leek",
@@ -5592,6 +5917,14 @@
           8,
           9
         ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
       }
     ],
     "ripenessTips": [
@@ -5612,6 +5945,7075 @@
       }
     ],
     "funFact": "The leek is the national emblem of Wales; legend says Welsh soldiers wore leeks on their helmets to distinguish themselves in battle.",
-    "storageTip": "Store untrimmed and unwashed in a loose plastic bag in the refrigerator for up to 2 weeks. Do not trim until ready to cook, and rinse thoroughly between layers to remove trapped dirt."
+    "storageTip": "Store untrimmed and unwashed in a loose plastic bag in the refrigerator for up to 2 weeks. Do not trim until ready to cook, and rinse thoroughly between layers to remove trapped dirt.",
+    "iconAsset": "icon_leek"
+  },
+  {
+    "id": "blackberry",
+    "name": "Blackberry",
+    "category": "fruit",
+    "emoji": "🫐",
+    "colorHex": "#2C003E",
+    "iconAsset": "icon_blackberry",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Berries should be uniformly deep black, not red or purple.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Plump and firm but not hard. Avoid mushy berries.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Check",
+        "description": "Should release easily from the stem when gently pulled.",
+        "sfSymbol": "leaf.fill"
+      }
+    ],
+    "funFact": "A single blackberry is actually a cluster of tiny fruits called drupelets, each containing its own seed.",
+    "storageTip": "Refrigerate unwashed in a single layer for 2-3 days. Wash just before eating."
+  },
+  {
+    "id": "raspberry",
+    "name": "Raspberry",
+    "category": "fruit",
+    "emoji": "🍇",
+    "colorHex": "#E30B5C",
+    "iconAsset": "icon_raspberry",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Should be bright, evenly colored, and free of mold.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Plump and dry to the touch. Wet berries spoil quickly.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Raspberries are a member of the rose family and there are over 200 species worldwide.",
+    "storageTip": "Store in a single layer in the fridge for 1-2 days. Do not wash until ready to eat."
+  },
+  {
+    "id": "boysenberry",
+    "name": "Boysenberry",
+    "category": "fruit",
+    "emoji": "🫐",
+    "colorHex": "#4B0150",
+    "iconAsset": "icon_boysenberry",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          12,
+          1
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          5,
+          6
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep maroon-purple color when fully ripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Soft and slightly yielding, but not mushy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "The boysenberry was created in the 1920s by Rudolph Boysen by crossing raspberries, blackberries, and loganberries.",
+    "storageTip": "Very perishable. Refrigerate and consume within 1-2 days."
+  },
+  {
+    "id": "clementine",
+    "name": "Clementine",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#FF6F00",
+    "iconAsset": "icon_clementine",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright orange color with a glossy, smooth skin.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel heavy for its size, indicating juiciness.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Clementines are seedless because they are the result of a natural mutation, not genetic modification.",
+    "storageTip": "Keep at room temperature for a week or refrigerate for up to 2 weeks."
+  },
+  {
+    "id": "tangerine",
+    "name": "Tangerine",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#FF8C00",
+    "iconAsset": "icon_tangerine",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Rich orange color. Some green is okay near the stem.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Heavy for its size with slightly loose, pebbly skin.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Tangerines got their name from Tangier, Morocco, the port from which they were first shipped to Europe.",
+    "storageTip": "Store at room temperature for a few days or refrigerate for up to 2 weeks."
+  },
+  {
+    "id": "blood_orange",
+    "name": "Blood Orange",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#8B0000",
+    "iconAsset": "icon_blood_orange",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "May have a reddish blush on the rind but not always. Inside is the true test.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy for its size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "The deep red color comes from anthocyanins, the same pigments found in blueberries and red cabbage.",
+    "storageTip": "Refrigerate for up to 2 weeks. Best eaten fresh to enjoy the color."
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "category": "fruit",
+    "emoji": "🍋",
+    "colorHex": "#32CD32",
+    "iconAsset": "icon_lime",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green skin. Yellowing means overripe but sweeter.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm but gives slightly when squeezed. Should feel heavy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "British sailors earned the nickname 'limeys' because they ate limes to prevent scurvy on long voyages.",
+    "storageTip": "Room temperature for a week, refrigerate for up to 3 weeks. Juice can be frozen in ice cube trays."
+  },
+  {
+    "id": "key_lime",
+    "name": "Key Lime",
+    "category": "fruit",
+    "emoji": "🍋",
+    "colorHex": "#ADFF2F",
+    "iconAsset": "icon_key_lime",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Yellowish-green when ripe, not bright green.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel slightly soft and heavy for its small size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Key limes are named after the Florida Keys, where they were once the dominant citrus crop.",
+    "storageTip": "Refrigerate for up to 2 weeks. They dry out quickly at room temperature."
+  },
+  {
+    "id": "meyer_lemon",
+    "name": "Meyer Lemon",
+    "category": "fruit",
+    "emoji": "🍋",
+    "colorHex": "#FFD700",
+    "iconAsset": "icon_meyer_lemon",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep yellow-orange when ripe, smoother than regular lemons.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Wonderfully fragrant with a floral, herbal scent.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Meyer lemons are actually a cross between a lemon and a mandarin orange, discovered by Frank Meyer in China in 1908.",
+    "storageTip": "Refrigerate for up to 2 weeks. More delicate than regular lemons."
+  },
+  {
+    "id": "kumquat",
+    "name": "Kumquat",
+    "category": "fruit",
+    "emoji": "🍊",
+    "colorHex": "#FFA500",
+    "iconAsset": "icon_kumquat",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright orange and plump. Avoid dull or shriveled fruit.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm with a bit of give. The skin is the sweet part!",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Kumquats are the only citrus fruit where you eat the peel — it's sweet while the juice is sour.",
+    "storageTip": "Refrigerate in a sealed bag for up to 2 weeks."
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "category": "fruit",
+    "emoji": "🥥",
+    "colorHex": "#8B4513",
+    "iconAsset": "icon_coconut",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Listen",
+        "description": "Shake it — you should hear sloshing water inside.",
+        "sfSymbol": "ear.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Choose coconuts with dry, brown eyes (the three dark spots).",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "The name 'coconut' comes from 16th-century Portuguese sailors who thought the three holes looked like a face (coco means grinning face).",
+    "storageTip": "Whole coconuts last 2-3 months at room temperature. Once opened, refrigerate flesh for up to a week."
+  },
+  {
+    "id": "dragon_fruit",
+    "name": "Dragon Fruit",
+    "category": "fruit",
+    "emoji": "🐉",
+    "colorHex": "#FF1493",
+    "iconAsset": "icon_dragon_fruit",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright, even color with just a few brown spots. Avoid very brown skin.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should give slightly like a ripe avocado when pressed.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Dragon fruit comes from a cactus and the flowers only bloom for one night, earning the name 'moonflower'.",
+    "storageTip": "Store ripe fruit in the fridge for up to 5 days. Cut fruit should be eaten within 1-2 days."
+  },
+  {
+    "id": "passion_fruit",
+    "name": "Passion Fruit",
+    "category": "fruit",
+    "emoji": "🟡",
+    "colorHex": "#6B3FA0",
+    "iconAsset": "icon_passion_fruit",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_australasia",
+        "months": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Wrinkly skin is actually a good sign — it means the fruit is ripe and sweet.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should feel heavy for its size, indicating lots of juice and pulp.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "The passion in 'passion fruit' refers to the Passion of Christ — Spanish missionaries saw symbolism in the flower's structure.",
+    "storageTip": "Ripe fruit at room temperature for 2-3 days. Refrigerate for up to a week. Pulp freezes well."
+  },
+  {
+    "id": "guava",
+    "name": "Guava",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#FF6B81",
+    "iconAsset": "icon_guava",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Ripe guava has a strong, sweet, musky fragrance.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Gives slightly when gently pressed, like a ripe pear.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "A single guava has 4 times more vitamin C than an orange.",
+    "storageTip": "Ripen at room temperature, then refrigerate for up to 4 days."
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#FFB347",
+    "iconAsset": "icon_papaya",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Skin turns from green to yellow-orange as it ripens.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Gives to gentle pressure like a ripe avocado.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Sweet, fragrant aroma at the base when ripe.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Papaya contains papain, an enzyme so powerful it was once used to tenderize meat commercially.",
+    "storageTip": "Ripen at room temperature. Once ripe, refrigerate for up to 3 days."
+  },
+  {
+    "id": "lychee",
+    "name": "Lychee",
+    "category": "fruit",
+    "emoji": "🍒",
+    "colorHex": "#DE3163",
+    "iconAsset": "icon_lychee",
+    "seasons": [
+      {
+        "region": "ap_southeast",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright red-pink shell with no brown patches.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Shell should feel bumpy and slightly firm, not dried out.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Lychee has been cultivated in China for over 2,000 years and was a favorite of the imperial court.",
+    "storageTip": "Refrigerate in a plastic bag for up to 2 weeks. The shell may brown but the flesh stays fresh."
+  },
+  {
+    "id": "plum",
+    "name": "Plum",
+    "category": "fruit",
+    "emoji": "🍑",
+    "colorHex": "#8E4585",
+    "iconAsset": "icon_plum",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Rich, deep color with a powdery bloom (white coating) which is natural.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Gives slightly at the tip when gently pressed.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Sweet, fruity aroma when ripe.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Dried plums are called prunes, and it takes about 3 pounds of fresh plums to make 1 pound of prunes.",
+    "storageTip": "Ripen on the counter, then refrigerate for up to 5 days."
+  },
+  {
+    "id": "nectarine",
+    "name": "Nectarine",
+    "category": "fruit",
+    "emoji": "🍑",
+    "colorHex": "#FF6347",
+    "iconAsset": "icon_nectarine",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Strong sweet fragrance at the stem end.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Gives slightly to gentle pressure. Too soft means overripe.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Nectarines are genetically almost identical to peaches — the smooth skin is caused by a single recessive gene.",
+    "storageTip": "Ripen at room temperature, then refrigerate for up to 5 days."
+  },
+  {
+    "id": "honeydew",
+    "name": "Honeydew",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#C1F80A",
+    "iconAsset": "icon_honeydew",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Creamy yellow skin, not green or white.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Slightly waxy and heavy. The blossom end should give a little.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Sweet, musky fragrance at the blossom end.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Honeydew melons are about 90% water, making them one of the most hydrating fruits available.",
+    "storageTip": "Whole uncut melons last a week at room temperature. Cut melon keeps 3-4 days refrigerated."
+  },
+  {
+    "id": "date",
+    "name": "Date",
+    "category": "fruit",
+    "emoji": "🟤",
+    "colorHex": "#5C3317",
+    "iconAsset": "icon_date",
+    "seasons": [
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Plump with glossy, slightly wrinkled skin. Avoid very dry or crystallized dates.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should be soft and slightly sticky, not hard or dried out.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Date palms can produce fruit for over 100 years, and a single tree can yield up to 200 pounds of dates annually.",
+    "storageTip": "Store in an airtight container at room temperature for a month, or refrigerate for up to 6 months."
+  },
+  {
+    "id": "starfruit",
+    "name": "Starfruit",
+    "category": "fruit",
+    "emoji": "⭐",
+    "colorHex": "#F0E68C",
+    "iconAsset": "icon_starfruit",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright yellow with slightly browned ridges. Green means unripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Fragrant, sweet aroma when ripe.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "When sliced crosswise, starfruit creates perfect five-pointed star shapes, which is how it got its name.",
+    "storageTip": "Ripen at room temperature, then refrigerate for up to a week."
+  },
+  {
+    "id": "jackfruit",
+    "name": "Jackfruit",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#9ACD32",
+    "iconAsset": "icon_jackfruit",
+    "seasons": [
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Strong sweet fragrance. If it smells fermented, it is overripe.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Yields slightly to pressure. Spines should be soft, not sharp.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Jackfruit is the largest tree-borne fruit in the world, reaching up to 80 pounds. Young jackfruit has a pulled-pork-like texture when cooked.",
+    "storageTip": "Whole fruit keeps at room temp for a few days. Cut pieces refrigerate for up to 5 days."
+  },
+  {
+    "id": "longan",
+    "name": "Longan",
+    "category": "fruit",
+    "emoji": "🟤",
+    "colorHex": "#D2691E",
+    "iconAsset": "icon_longan",
+    "seasons": [
+      {
+        "region": "ap_southeast",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Light tan-brown shell, evenly colored without cracks.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Shell should crack easily revealing translucent white flesh.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Longan means 'dragon eye' in Chinese — the translucent flesh with a dark seed in the center resembles an eyeball.",
+    "storageTip": "Refrigerate in a perforated bag for up to 2 weeks."
+  },
+  {
+    "id": "rambutan",
+    "name": "Rambutan",
+    "category": "fruit",
+    "emoji": "🔴",
+    "colorHex": "#DC143C",
+    "iconAsset": "icon_rambutan",
+    "seasons": [
+      {
+        "region": "ap_southeast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright red with green-tipped soft spines. Brown spines mean old.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Slightly firm. Shell should peel away easily.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Rambutan means 'hairy' in Malay, referring to the soft spines covering the fruit.",
+    "storageTip": "Refrigerate for up to a week. Best eaten within a few days of purchase."
+  },
+  {
+    "id": "quince",
+    "name": "Quince",
+    "category": "fruit",
+    "emoji": "🍐",
+    "colorHex": "#DAA520",
+    "iconAsset": "icon_quince",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Golden yellow when ripe. Some fuzz on the skin is normal.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Intensely fragrant with a floral, apple-like aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Quince is too hard and astringent to eat raw, but cooking transforms it into a beautiful pink-red with a honey-like flavor.",
+    "storageTip": "Keeps for 2-3 months in the refrigerator. One of the longest-storing fruits."
+  },
+  {
+    "id": "tamarind",
+    "name": "Tamarind",
+    "category": "fruit",
+    "emoji": "🟤",
+    "colorHex": "#654321",
+    "iconAsset": "icon_tamarind",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Brown brittle shell that cracks easily. Avoid pods with holes.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Pod should feel full and heavy, not hollow or light.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Tamarind is used in Worcestershire sauce, giving it the distinctive tangy flavor.",
+    "storageTip": "Whole pods keep for months at room temperature. Paste stores for a year in the fridge."
+  },
+  {
+    "id": "cherimoya",
+    "name": "Cherimoya",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#8FBC8F",
+    "iconAsset": "icon_cherimoya",
+    "seasons": [
+      {
+        "region": "la_temperate",
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Gives to gentle pressure like a ripe avocado. Should feel heavy.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Skin may turn slightly brown when ripe; some browning is ok.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Mark Twain called cherimoya 'the most delicious fruit known to men.' Its flavor is often described as a blend of banana, pineapple, and strawberry.",
+    "storageTip": "Ripen at room temperature. Once soft, eat immediately or refrigerate for 1-2 days."
+  },
+  {
+    "id": "soursop",
+    "name": "Soursop",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#556B2F",
+    "iconAsset": "icon_soursop",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Should yield to gentle pressure when ripe. Skin turns slightly yellow-green.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Sweet, pineapple-like fragrance when ripe.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Soursop is called guanabana in Latin America and is one of the most popular tropical juice flavors.",
+    "storageTip": "Ripen at room temperature. Once ripe, pulp can be frozen for months."
+  },
+  {
+    "id": "mamey_sapote",
+    "name": "Mamey Sapote",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#E2725B",
+    "iconAsset": "icon_mamey_sapote",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Scratch the skin — if pink-orange shows underneath, it is ripe.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Brown rough skin. Flesh inside should be salmon-orange.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Mamey sapote is the key ingredient in Cuban batidos (milkshakes) and Mexican ice cream.",
+    "storageTip": "Ripen at room temperature until it yields to pressure. Refrigerate when ripe for 3-4 days."
+  },
+  {
+    "id": "tuna_prickly_pear",
+    "name": "Tuna (Prickly Pear)",
+    "category": "fruit",
+    "emoji": "🌵",
+    "colorHex": "#FF4500",
+    "iconAsset": "icon_tuna_prickly_pear",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "af_north",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep color (red, purple, or yellow depending on variety). Avoid green fruit.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Gives slightly when pressed. Handle carefully — tiny glochid spines!",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Mexico produces 90% of the world's prickly pear fruit and the nopal cactus even appears on the Mexican flag.",
+    "storageTip": "Refrigerate for up to a week. Use tongs or thick gloves to handle, then peel."
+  },
+  {
+    "id": "tejocote",
+    "name": "Tejocote",
+    "category": "fruit",
+    "emoji": "🍎",
+    "colorHex": "#CC5500",
+    "iconAsset": "icon_tejocote",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Orange-yellow color, similar to a small crabapple.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm when fresh. Used cooked in ponche (fruit punch).",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Tejocote is essential to Mexican ponche, the traditional warm fruit punch served during Christmas posadas.",
+    "storageTip": "Store in a cool, dry place for up to 2 weeks. Often sold in syrup or preserved."
+  },
+  {
+    "id": "mulberry",
+    "name": "Mulberry",
+    "category": "fruit",
+    "emoji": "🫐",
+    "colorHex": "#4B0082",
+    "iconAsset": "icon_mulberry",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          5,
+          6
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep purple-black when fully ripe. Red ones are still unripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Soft and plump. Falls from the tree when ripe.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Mulberry leaves are the sole food source for silkworms, making the tree essential to the silk industry for thousands of years.",
+    "storageTip": "Extremely perishable — eat same day or refrigerate for 1-2 days max."
+  },
+  {
+    "id": "rhubarb",
+    "name": "Rhubarb",
+    "category": "fruit",
+    "emoji": "🌿",
+    "colorHex": "#B22222",
+    "iconAsset": "icon_rhubarb",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Firm, crisp stalks with good color. Avoid limp or wilted stalks.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Should snap cleanly when bent, like celery.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Rhubarb is technically a vegetable but is legally classified as a fruit in the US (since 1947) because of how it is used in cooking.",
+    "storageTip": "Wrap in foil and refrigerate for up to 2 weeks. Freezes well for baking."
+  },
+  {
+    "id": "plantain",
+    "name": "Plantain",
+    "category": "fruit",
+    "emoji": "🍌",
+    "colorHex": "#FFD700",
+    "iconAsset": "icon_plantain",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Green = starchy (frying), yellow = semi-sweet, black = sweet (maduros).",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firmness depends on desired use. Firm for tostones, soft for maduros.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Plantains are a staple food for over 100 million people in Africa and Latin America, eaten cooked rather than raw.",
+    "storageTip": "Ripen at room temperature. Green plantains take 1-2 weeks to fully ripen to black."
+  },
+  {
+    "id": "yuzu",
+    "name": "Yuzu",
+    "category": "fruit",
+    "emoji": "🍋",
+    "colorHex": "#FFE135",
+    "iconAsset": "icon_yuzu",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Yellow and slightly bumpy skin when ripe. Green yuzu is used for its zest.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Intensely aromatic — floral citrus scent.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "In Japan, floating yuzu in hot baths during the winter solstice (yuzu-yu) is believed to ward off colds.",
+    "storageTip": "Refrigerate for up to 2 weeks. The zest and juice both freeze excellently."
+  },
+  {
+    "id": "gooseberry",
+    "name": "Gooseberry",
+    "category": "fruit",
+    "emoji": "🟢",
+    "colorHex": "#8DB600",
+    "iconAsset": "icon_gooseberry",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Color depends on variety: green, red, or golden when ripe.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Slightly soft. Tart varieties are firm, dessert types are softer.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Gooseberries were once so popular in England that competitive gooseberry-growing shows have been held since the 1700s.",
+    "storageTip": "Refrigerate for up to 3 weeks. They freeze beautifully for pies and jams."
+  },
+  {
+    "id": "currant",
+    "name": "Red Currant",
+    "category": "fruit",
+    "emoji": "🔴",
+    "colorHex": "#FF0000",
+    "iconAsset": "icon_currant",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright, translucent red berries in clusters. Avoid dull or wrinkled berries.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and plump on the stem.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Red currants contain more vitamin C per gram than oranges. They were banned in the US for decades because they can spread a fungus harmful to pine trees.",
+    "storageTip": "Refrigerate on the stem for up to a week. Freeze for longer storage."
+  },
+  {
+    "id": "durian",
+    "name": "Durian",
+    "category": "fruit",
+    "emoji": "🍈",
+    "colorHex": "#808000",
+    "iconAsset": "icon_durian",
+    "seasons": [
+      {
+        "region": "ap_southeast",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Smell",
+        "description": "Strong aroma is normal! Sour or alcoholic smell means overripe.",
+        "sfSymbol": "nose.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Shake it — seeds should rattle slightly inside a ripe durian.",
+        "sfSymbol": "ear.fill"
+      }
+    ],
+    "funFact": "Durian is banned from many hotels and public transport in Southeast Asia due to its pungent smell, yet it is called the 'king of fruits.'",
+    "storageTip": "Eat fresh. Wrapped flesh can be refrigerated 2-3 days. Freezing makes it ice-cream-like."
+  },
+  {
+    "id": "nopales",
+    "name": "Nopales",
+    "category": "vegetable",
+    "emoji": "🌵",
+    "colorHex": "#228B22",
+    "iconAsset": "icon_nopales",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Small to medium pads, bright green, firm. Avoid large, thick, fibrous ones.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and moist when cut. Should not be limp or dry.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Nopales have been a staple of Mexican cuisine for over 12,000 years and are depicted on the Mexican coat of arms.",
+    "storageTip": "Wrap in damp paper towels and refrigerate for up to 2 weeks."
+  },
+  {
+    "id": "chayote",
+    "name": "Chayote",
+    "category": "vegetable",
+    "emoji": "🍐",
+    "colorHex": "#90EE90",
+    "iconAsset": "icon_chayote",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Light green, firm, without wrinkles or soft spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy for its size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Every part of the chayote plant is edible — fruit, seed, leaves, and even the tuberous root.",
+    "storageTip": "Refrigerate unwrapped for up to 3 weeks. One of the longest-lasting fresh vegetables."
+  },
+  {
+    "id": "jicama",
+    "name": "Jicama",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#DEB887",
+    "iconAsset": "icon_jicama",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Smooth, unblemished tan skin. Medium size is sweetest.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very firm and heavy. Should not have any soft spots.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Jicama is a legume that grows underground. Only the root is edible — the rest of the plant is toxic.",
+    "storageTip": "Store whole in a cool, dry place for 2-3 weeks. Cut jicama refrigerates for about a week."
+  },
+  {
+    "id": "tomatillo",
+    "name": "Tomatillo",
+    "category": "vegetable",
+    "emoji": "🍅",
+    "colorHex": "#6B8E23",
+    "iconAsset": "icon_tomatillo",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Fills or bursts its papery husk. Bright green for tangy, yellowish for sweeter.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and sticky under the husk — stickiness is natural and desired.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Despite the name, tomatillos are not baby tomatoes. They are more closely related to gooseberries.",
+    "storageTip": "Keep in husks and refrigerate for up to 3 weeks. Remove husks and wash before using."
+  },
+  {
+    "id": "jalapeno",
+    "name": "Jalapeno",
+    "category": "vegetable",
+    "emoji": "🌶️",
+    "colorHex": "#006400",
+    "iconAsset": "icon_jalapeno",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Firm, smooth, deep green. White lines (corking) indicate more heat.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and crisp. Red jalapenos are ripe and slightly sweeter.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Jalapenos are named after Xalapa, the capital of Veracruz, Mexico. When smoked and dried, they become chipotle peppers.",
+    "storageTip": "Refrigerate in a paper bag for up to 2 weeks."
+  },
+  {
+    "id": "serrano",
+    "name": "Serrano",
+    "category": "vegetable",
+    "emoji": "🌶️",
+    "colorHex": "#008000",
+    "iconAsset": "icon_serrano",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Glossy, firm, and bright green. Red serranos are fully mature.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and smooth, no wrinkles.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Serrano means 'from the mountains' in Spanish — they originate from the mountainous regions of Puebla and Hidalgo.",
+    "storageTip": "Refrigerate for up to 2 weeks. Can be frozen whole for later use."
+  },
+  {
+    "id": "habanero",
+    "name": "Habanero",
+    "category": "vegetable",
+    "emoji": "🌶️",
+    "colorHex": "#FF4500",
+    "iconAsset": "icon_habanero",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright orange, red, or yellow depending on variety. Shiny and plump.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm with smooth skin. Wrinkled skin means it is past peak.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Habaneros are 100 times hotter than jalapenos. The Yucatan Peninsula in Mexico is considered their place of origin.",
+    "storageTip": "Refrigerate for up to 2 weeks. They freeze very well and maintain their heat."
+  },
+  {
+    "id": "poblano",
+    "name": "Poblano",
+    "category": "vegetable",
+    "emoji": "🌶️",
+    "colorHex": "#013220",
+    "iconAsset": "icon_poblano",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Dark green, almost black. Large and heart-shaped.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy with glossy skin.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "When dried, poblano peppers become ancho chiles — the most widely used dried chile in Mexican cuisine.",
+    "storageTip": "Refrigerate in a paper bag for up to a week. Roast and freeze for longer storage."
+  },
+  {
+    "id": "calabaza",
+    "name": "Calabaza",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#E8A317",
+    "iconAsset": "icon_calabaza",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Hard rind with even color. No soft spots or cracks.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very hard shell and heavy for its size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Calabaza is the generic Spanish word for squash and has been cultivated in the Americas for over 7,000 years.",
+    "storageTip": "Whole squash keeps for months in a cool, dry place. Cut pieces refrigerate for a week."
+  },
+  {
+    "id": "epazote",
+    "name": "Epazote",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#2E8B57",
+    "iconAsset": "icon_epazote",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Fresh, bright green leaves with no yellowing or wilting.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Strong, pungent, slightly medicinal aroma — this is normal.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Epazote has been used in Mexican cooking for centuries both as a seasoning and as a traditional remedy to reduce the gassiness of beans.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to a week. Dries well."
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#3CB371",
+    "iconAsset": "icon_cilantro",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green, perky leaves. Avoid yellowing or slimy stems.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Fresh, bright herbal scent. Wilted cilantro loses its aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Whether you love or hate cilantro may be genetic — a variation in the OR6A2 gene makes it taste like soap to some people.",
+    "storageTip": "Place stems in a jar of water, cover loosely with a bag, and refrigerate for up to 2 weeks."
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#006400",
+    "iconAsset": "icon_parsley",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green, crisp stems. Flat-leaf has more flavor than curly.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Fresh, clean herbal aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Parsley was used by ancient Romans to mask bad breath and as a deodorizer at banquets.",
+    "storageTip": "Store like cilantro — stems in water, covered, in the fridge. Lasts up to 3 weeks."
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#228B22",
+    "iconAsset": "icon_basil",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Vibrant green with no dark spots or wilting.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Intensely aromatic when you rub a leaf.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "There are over 60 varieties of basil. In Italy, placing basil on a windowsill was once a signal of romantic interest.",
+    "storageTip": "Do NOT refrigerate — it turns black. Keep stems in water at room temperature like flowers."
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#00A86B",
+    "iconAsset": "icon_mint",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green, perky leaves without dark spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Strong, cool menthol aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Mint is so vigorous it is considered invasive in many areas — gardeners recommend growing it in containers.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to a week. Freezes well in ice cube trays with water."
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#98FB98",
+    "iconAsset": "icon_dill",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Feathery fronds should be bright green and fragrant.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Fresh, anise-like aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "The word dill comes from the Norse word 'dilla' meaning to lull or soothe — it was used as a calming remedy.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for 1-2 weeks. Loses flavor when dried."
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#2F4F4F",
+    "iconAsset": "icon_rosemary",
+    "seasons": [
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep green needle-like leaves, no browning.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Strong, piney, aromatic scent.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Rosemary has been associated with memory improvement since ancient Greece — students wore it in their hair during exams.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to 3 weeks. One of the hardiest herbs."
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#556B2F",
+    "iconAsset": "icon_thyme",
+    "seasons": [
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Tiny green-grey leaves on woody stems. No browning or drying.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Warm, earthy, slightly minty aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Ancient Egyptians used thyme in the embalming process, and Roman soldiers bathed in thyme water for vigor before battle.",
+    "storageTip": "Refrigerate wrapped in damp paper towel for up to 2 weeks. Dries very well."
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#6B8E23",
+    "iconAsset": "icon_oregano",
+    "seasons": [
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Small oval leaves, bright to dark green.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Strong, warm, slightly bitter aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Mexican oregano and Mediterranean oregano are actually different plant species with distinct flavor profiles.",
+    "storageTip": "Refrigerate for up to a week. Dried oregano is actually more concentrated in flavor than fresh."
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#9DC183",
+    "iconAsset": "icon_sage",
+    "seasons": [
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Silvery-green velvety leaves without brown edges.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Warm, piney, slightly peppery aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "The word sage comes from the Latin 'salvere' meaning 'to be saved' — it was considered a cure-all in medieval medicine.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to a week."
+  },
+  {
+    "id": "swiss_chard",
+    "name": "Swiss Chard",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#DC143C",
+    "iconAsset": "icon_swiss_chard",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Glossy leaves with brightly colored stems (red, yellow, or white).",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp stems and tender leaves, not wilted.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Despite its name, Swiss chard is actually native to the Mediterranean — a Swiss botanist cataloged it in the 19th century.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to a week."
+  },
+  {
+    "id": "collard_greens",
+    "name": "Collard Greens",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#006400",
+    "iconAsset": "icon_collard_greens",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "af_south",
+        "months": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Dark green, smooth leaves without yellowing or holes.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and crisp, not limp.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Collard greens actually improve in flavor after a light frost, which converts starches to sugars.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to 5 days."
+  },
+  {
+    "id": "mustard_greens",
+    "name": "Mustard Greens",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#556B2F",
+    "iconAsset": "icon_mustard_greens",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          3,
+          4,
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green with no yellowing. Smaller leaves are more tender.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp and fresh, not slimy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Mustard greens are one of the oldest cultivated crops, grown in the Himalayan region over 5,000 years ago.",
+    "storageTip": "Refrigerate wrapped in damp paper towel for 3-5 days."
+  },
+  {
+    "id": "arugula",
+    "name": "Arugula",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#3CB371",
+    "iconAsset": "icon_arugula",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green oak-shaped leaves. Smaller = milder, larger = more peppery.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Peppery, slightly nutty aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Arugula was considered an aphrodisiac in ancient Rome and was often grown near the statue of Priapus.",
+    "storageTip": "Refrigerate in a loose bag for 2-3 days. Very perishable."
+  },
+  {
+    "id": "watercress",
+    "name": "Watercress",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#008B45",
+    "iconAsset": "icon_watercress",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green leaves with crisp stems. Avoid yellowing or wilting.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp and fresh with a peppery bite.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Watercress was a staple of Roman soldiers' diets and grows naturally in shallow streams.",
+    "storageTip": "Store stems in water like a bouquet. Use within 2-3 days."
+  },
+  {
+    "id": "endive",
+    "name": "Endive",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#FFFACD",
+    "iconAsset": "icon_endive",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Pale yellow-white with compact, torpedo-shaped heads.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and crisp leaves tightly packed.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Belgian endive is grown in complete darkness to keep it pale and mild in flavor.",
+    "storageTip": "Wrap in paper towel and refrigerate for up to 2 weeks. Keep away from light."
+  },
+  {
+    "id": "radicchio",
+    "name": "Radicchio",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#800020",
+    "iconAsset": "icon_radicchio",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep burgundy leaves with white ribs. Compact and heavy head.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and dense, not spongy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Radicchio belongs to the chicory family and the bitterness mellows significantly when grilled.",
+    "storageTip": "Refrigerate wrapped in paper towel for up to 2 weeks."
+  },
+  {
+    "id": "bok_choy",
+    "name": "Bok Choy",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#7CFC00",
+    "iconAsset": "icon_bok_choy",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Crisp white stalks with vibrant dark green leaves.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm stalks that snap when bent.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Bok choy has been cultivated in China for over 5,000 years and is a member of the cabbage family.",
+    "storageTip": "Refrigerate unwashed in a loose bag for up to a week."
+  },
+  {
+    "id": "napa_cabbage",
+    "name": "Napa Cabbage",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#98FB98",
+    "iconAsset": "icon_napa_cabbage",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Tall, oblong head with pale green-white crinkled leaves.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Compact and heavy. Leaves should be crisp.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Napa cabbage is the key ingredient in kimchi and is different from regular cabbage in both taste and texture.",
+    "storageTip": "Refrigerate whole for up to 2 weeks. Cut portions last about a week."
+  },
+  {
+    "id": "turnip",
+    "name": "Turnip",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#E8D5B7",
+    "iconAsset": "icon_turnip",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Smooth, unblemished skin. Small to medium size is sweetest.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy for its size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Before pumpkins were available in Ireland, turnips were carved into jack-o-lanterns for Halloween.",
+    "storageTip": "Remove greens and refrigerate roots for 2-3 weeks. Cook the greens separately."
+  },
+  {
+    "id": "rutabaga",
+    "name": "Rutabaga",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#DEB887",
+    "iconAsset": "icon_rutabaga",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Purple-tinged top with yellow bottom. Smooth and firm.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very heavy for its size and rock-hard when fresh.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Rutabagas are a cross between turnips and cabbage, first bred in Scandinavia in the 17th century.",
+    "storageTip": "Store in a cool root cellar for months, or refrigerate for up to 3 weeks."
+  },
+  {
+    "id": "parsnip",
+    "name": "Parsnip",
+    "category": "vegetable",
+    "emoji": "🥕",
+    "colorHex": "#FAEBD7",
+    "iconAsset": "icon_parsnip",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Cream-colored, smooth skin. Medium size is best.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm, like a carrot. Avoid limp or rubbery ones.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Parsnips become sweeter after frost because the cold converts their starches into sugar.",
+    "storageTip": "Refrigerate in a perforated bag for 2-3 weeks."
+  },
+  {
+    "id": "daikon",
+    "name": "Daikon Radish",
+    "category": "vegetable",
+    "emoji": "🥕",
+    "colorHex": "#FFFFF0",
+    "iconAsset": "icon_daikon",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "White, smooth, straight. Avoid cracked or spotted ones.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy. Should not bend.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Japan alone produces over 1 million tons of daikon annually — it is the most consumed vegetable in the country.",
+    "storageTip": "Refrigerate wrapped in plastic for up to 2 weeks."
+  },
+  {
+    "id": "kohlrabi",
+    "name": "Kohlrabi",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#9370DB",
+    "iconAsset": "icon_kohlrabi",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Small to medium bulbs (tennis ball size). Can be green or purple.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and smooth. Large ones can be woody.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Kohlrabi means 'cabbage turnip' in German. Despite its alien appearance, it tastes like a mild, sweet broccoli stem.",
+    "storageTip": "Refrigerate for 2-3 weeks. Remove leaves and store separately."
+  },
+  {
+    "id": "cassava",
+    "name": "Cassava",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#D2B48C",
+    "iconAsset": "icon_cassava",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bark-like skin should be intact. Flesh should be pure white.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very firm. Avoid soft spots or blue-grey streaks in the flesh.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Cassava feeds over half a billion people worldwide and is the third-largest source of carbohydrates in the tropics.",
+    "storageTip": "Use within a few days of purchase. Peel and freeze for longer storage. Must be cooked — never eat raw."
+  },
+  {
+    "id": "taro",
+    "name": "Taro",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#7B68EE",
+    "iconAsset": "icon_taro",
+    "seasons": [
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Brown hairy skin. Firm with no soft spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Hard and heavy. Should not give when pressed.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Taro is one of the oldest cultivated crops, grown in Southeast Asia for over 10,000 years. It is the base for Hawaiian poi.",
+    "storageTip": "Store in a cool, dark, dry place for 1-2 weeks. Must be cooked before eating."
+  },
+  {
+    "id": "butternut_squash",
+    "name": "Butternut Squash",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#E8A317",
+    "iconAsset": "icon_butternut_squash",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Uniform beige skin with no green patches. Matte finish, not shiny.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very hard shell and heavy. No soft spots.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Listen",
+        "description": "Knock on it — should sound hollow.",
+        "sfSymbol": "ear.fill"
+      }
+    ],
+    "funFact": "A single butternut squash vine can produce 10-20 squash per season and one squash can weigh up to 5 pounds.",
+    "storageTip": "Keeps 2-3 months in a cool, dark place. Cut squash refrigerates for about a week."
+  },
+  {
+    "id": "acorn_squash",
+    "name": "Acorn Squash",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#2E4600",
+    "iconAsset": "icon_acorn_squash",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Dark green with an orange patch on the bottom where it rested.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Hard rind and heavy. The stem should be dry.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Acorn squash gets its name from its acorn-like shape and is one of the oldest domesticated squashes.",
+    "storageTip": "Keeps 1-2 months in a cool, dry spot."
+  },
+  {
+    "id": "spaghetti_squash",
+    "name": "Spaghetti Squash",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#FFD700",
+    "iconAsset": "icon_spaghetti_squash",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright yellow all over. No green spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Hard rind, heavy for its size.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "When cooked, the flesh separates into spaghetti-like strands — a natural, low-carb pasta alternative.",
+    "storageTip": "Keeps 1-2 months in a cool, dry place."
+  },
+  {
+    "id": "delicata_squash",
+    "name": "Delicata Squash",
+    "category": "vegetable",
+    "emoji": "🎃",
+    "colorHex": "#FFDEAD",
+    "iconAsset": "icon_delicata_squash",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Cream-colored with green stripes. No soft spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm. Lighter than other winter squash.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Delicata is one of the few winter squashes with an edible skin, making it the easiest to prepare.",
+    "storageTip": "Shorter shelf life than other winter squash — use within 3-4 weeks."
+  },
+  {
+    "id": "summer_squash",
+    "name": "Summer Squash",
+    "category": "vegetable",
+    "emoji": "🥒",
+    "colorHex": "#FFD700",
+    "iconAsset": "icon_summer_squash",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Small to medium size with glossy skin. Large ones are seedy.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm but tender skin you can dent with a fingernail.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Summer squash are harvested immature, while winter squash are left to fully mature on the vine.",
+    "storageTip": "Refrigerate for up to a week. Do not store in plastic — they need air circulation."
+  },
+  {
+    "id": "scallion",
+    "name": "Scallion",
+    "category": "vegetable",
+    "emoji": "🧅",
+    "colorHex": "#00FF00",
+    "iconAsset": "icon_scallion",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright white bulbs with crisp, dark green tops.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and crisp, not slimy or wilted.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Scallions, green onions, and spring onions are often used interchangeably though they are slightly different varieties.",
+    "storageTip": "Stand upright in a glass of water in the fridge for up to 2 weeks."
+  },
+  {
+    "id": "shallot",
+    "name": "Shallot",
+    "category": "vegetable",
+    "emoji": "🧅",
+    "colorHex": "#8B4513",
+    "iconAsset": "icon_shallot",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Dry, papery copper-colored skin. Firm with no sprouting.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy with no soft spots.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Shallots are prized in French cuisine for their delicate, sweeter flavor compared to regular onions.",
+    "storageTip": "Store in a cool, dark, dry place for up to a month."
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "category": "vegetable",
+    "emoji": "🧄",
+    "colorHex": "#FFFFF0",
+    "iconAsset": "icon_garlic",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Firm, plump bulbs with tight cloves. Avoid soft or spongy.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Dry, papery skin intact. No green shoots.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "China produces 80% of the world's garlic — over 20 million tons per year.",
+    "storageTip": "Store in a cool, dry, dark place with airflow for 3-6 months. Do not refrigerate whole bulbs."
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "vegetable",
+    "emoji": "🫚",
+    "colorHex": "#DAA520",
+    "iconAsset": "icon_ginger",
+    "seasons": [
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Smooth, taut skin. Wrinkled skin means old and fibrous.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy. Should snap cleanly when broken.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Spicy, warm aroma when skin is scratched.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Ginger has been used medicinally for over 5,000 years and contains gingerol, which has powerful anti-inflammatory properties.",
+    "storageTip": "Store unpeeled in the fridge for up to 3 weeks, or freeze for months."
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "category": "vegetable",
+    "emoji": "🫚",
+    "colorHex": "#FF8C00",
+    "iconAsset": "icon_turmeric",
+    "seasons": [
+      {
+        "region": "ap_south",
+        "months": [
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Deep orange flesh when cut. Firm, small fingers.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy. Skin should be tight, not wrinkled.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Turmeric gives curry its yellow color and has been used as a fabric dye for thousands of years in South Asia.",
+    "storageTip": "Refrigerate in a sealed bag for 2-3 weeks. Freezes well for months. Warning: it stains everything!"
+  },
+  {
+    "id": "snow_peas",
+    "name": "Snow Peas",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#90EE90",
+    "iconAsset": "icon_snow_peas",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Flat, bright green pods. You should be able to see the peas faintly through the pod.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp and snap easily. Should not be limp.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Snow peas are called 'mange tout' (eat everything) in French because the entire pod is eaten.",
+    "storageTip": "Refrigerate in a perforated bag for 3-5 days. Do not wash until ready to use."
+  },
+  {
+    "id": "sugar_snap_peas",
+    "name": "Sugar Snap Peas",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#32CD32",
+    "iconAsset": "icon_sugar_snap_peas",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          6,
+          7
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Plump, rounded pods with bright green color.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp and snappy. Should pop when bent.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Sugar snap peas were only invented in 1979 by crossing snow peas with garden peas. They are a relatively modern vegetable.",
+    "storageTip": "Refrigerate for 3-5 days. Best eaten as fresh as possible."
+  },
+  {
+    "id": "edamame",
+    "name": "Edamame",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#6B8E23",
+    "iconAsset": "icon_edamame",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green, plump pods with 2-3 beans visible inside.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm pods that pop open easily when squeezed.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Edamame means 'stem beans' in Japanese and they have been eaten in East Asia for over 2,000 years.",
+    "storageTip": "Fresh pods refrigerate for 2-3 days. Blanch and freeze for months."
+  },
+  {
+    "id": "lima_bean",
+    "name": "Lima Bean",
+    "category": "vegetable",
+    "emoji": "🫘",
+    "colorHex": "#8FBC8F",
+    "iconAsset": "icon_lima_bean",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Plump green pods for fresh limas. Dry pods for dried beans.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Pods should be full and firm with visible bean outlines.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Lima beans are named after Lima, Peru, where they have been cultivated since 6000 BC.",
+    "storageTip": "Shell and refrigerate fresh beans for 2-3 days. Freeze blanched beans for months."
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#556B2F",
+    "iconAsset": "icon_okra",
+    "seasons": [
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "af_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green, 2-4 inches long. Larger pods are tough and woody.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm but tender. Should snap, not bend.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Okra was brought to the Americas from Africa during the slave trade and is now a cornerstone of Southern US cuisine (gumbo).",
+    "storageTip": "Refrigerate dry in a paper bag for 2-3 days. Very perishable."
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "category": "vegetable",
+    "emoji": "🧅",
+    "colorHex": "#F5F5DC",
+    "iconAsset": "icon_fennel",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "White to pale green bulb with fresh green fronds.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and compact bulb. Avoid soft or spreading layers.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Mild anise/licorice aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Every part of the fennel plant is edible — the bulb, stalks, fronds, pollen, and seeds each have culinary uses.",
+    "storageTip": "Refrigerate for up to 2 weeks. Remove fronds and store separately."
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "category": "vegetable",
+    "emoji": "🥬",
+    "colorHex": "#ADFF2F",
+    "iconAsset": "icon_celery",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green stalks that are crisp and tightly bunched.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and snappy. Should not bend without breaking.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Celery is so low in calories that it was long believed to be a 'negative calorie food' — though this is technically a myth.",
+    "storageTip": "Wrap in aluminum foil and refrigerate for up to 4 weeks. Foil keeps it crispier than plastic."
+  },
+  {
+    "id": "shiitake",
+    "name": "Shiitake Mushroom",
+    "category": "vegetable",
+    "emoji": "🍄",
+    "colorHex": "#8B4513",
+    "iconAsset": "icon_shiitake",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          3,
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Firm, dry caps with white gills. Avoid slimy or dark spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Earthy, woodsy aroma. Off smells mean they are past prime.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Shiitake means 'shii tree mushroom' in Japanese and have been cultivated for over 1,000 years on oak logs.",
+    "storageTip": "Refrigerate in a paper bag for up to 10 days. Never store in plastic."
+  },
+  {
+    "id": "oyster_mushroom",
+    "name": "Oyster Mushroom",
+    "category": "vegetable",
+    "emoji": "🍄",
+    "colorHex": "#D3D3D3",
+    "iconAsset": "icon_oyster_mushroom",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          4,
+          5,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          3,
+          4
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Fan-shaped, light grey to cream colored. Edges should be smooth.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Mild, pleasant anise-like scent. No sour smell.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Oyster mushrooms are one of the few carnivorous mushrooms — they produce toxins that paralyze tiny roundworms for nitrogen.",
+    "storageTip": "Refrigerate in a paper bag for 5-7 days. Very delicate — handle gently."
+  },
+  {
+    "id": "bitter_melon",
+    "name": "Bitter Melon",
+    "category": "vegetable",
+    "emoji": "🥒",
+    "colorHex": "#006400",
+    "iconAsset": "icon_bitter_melon",
+    "seasons": [
+      {
+        "region": "ap_south",
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_east",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green and firm for less bitterness. Yellow means very ripe and more bitter.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm with bumpy texture. Should not be soft.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Bitter melon is one of the most bitter foods on earth and is used in traditional medicine across Asia to help manage blood sugar.",
+    "storageTip": "Refrigerate for 4-5 days. Soaking sliced pieces in salt water reduces bitterness."
+  },
+  {
+    "id": "bamboo_shoots",
+    "name": "Bamboo Shoots",
+    "category": "vegetable",
+    "emoji": "🎋",
+    "colorHex": "#F5DEB3",
+    "iconAsset": "icon_bamboo_shoots",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Ivory white with tight, compact layers. No brown or slimy spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy. Should not feel hollow.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Bamboo is the fastest-growing plant on earth — some species grow over 3 feet in a single day. Fresh shoots are a spring delicacy.",
+    "storageTip": "Refrigerate fresh unpeeled shoots for up to 2 weeks. Must be boiled before eating to remove toxins."
+  },
+  {
+    "id": "water_chestnut",
+    "name": "Water Chestnut",
+    "category": "vegetable",
+    "emoji": "🌰",
+    "colorHex": "#800000",
+    "iconAsset": "icon_water_chestnut",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Dark brown skin, round and plump. No wrinkles.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very firm with crisp, white flesh inside.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Water chestnuts are not nuts — they are aquatic tubers that grow in marshes and stay crunchy even after cooking.",
+    "storageTip": "Refrigerate unpeeled for up to 2 weeks. Peeled water chestnuts last 2-3 days submerged in water."
+  },
+  {
+    "id": "bean_sprouts",
+    "name": "Bean Sprouts",
+    "category": "vegetable",
+    "emoji": "🌱",
+    "colorHex": "#F5F5DC",
+    "iconAsset": "icon_bean_sprouts",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright white with firm, plump sprouts. No browning.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Should smell fresh and clean, not sour.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Bean sprouts can be grown at home in just 3-5 days, making them one of the easiest vegetables to grow year-round.",
+    "storageTip": "Refrigerate submerged in water for 2-3 days, changing water daily. Very perishable."
+  },
+  {
+    "id": "chinese_broccoli",
+    "name": "Chinese Broccoli",
+    "category": "vegetable",
+    "emoji": "🥦",
+    "colorHex": "#2E8B57",
+    "iconAsset": "icon_chinese_broccoli",
+    "seasons": [
+      {
+        "region": "ap_east",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      },
+      {
+        "region": "na_northeast",
+        "months": [
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Thick stems with dark green leaves and small white flowers.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm, crisp stems that snap. Not limp or woody.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Chinese broccoli (gai lan) is more closely related to regular broccoli than bok choy, despite its leafy appearance.",
+    "storageTip": "Refrigerate in a damp paper towel for 3-5 days."
+  },
+  {
+    "id": "hoja_santa",
+    "name": "Hoja Santa",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#006400",
+    "iconAsset": "icon_hoja_santa",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Large, heart-shaped, velvety dark green leaves.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Smell",
+        "description": "Complex anise-sassafras-mint aroma.",
+        "sfSymbol": "nose.fill"
+      }
+    ],
+    "funFact": "Hoja santa means 'sacred leaf' in Spanish. It is used to wrap tamales and fish in Oaxacan cuisine.",
+    "storageTip": "Wrap in damp paper towel and refrigerate for up to a week."
+  },
+  {
+    "id": "horseradish",
+    "name": "Horseradish",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#F5DEB3",
+    "iconAsset": "icon_horseradish",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          10,
+          11,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "na_temperate",
+        "months": [
+          10,
+          11,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_northern",
+        "months": [
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Firm, tan root with no mold or soft spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very hard and solid. Should not be spongy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "The heat of horseradish is caused by allyl isothiocyanate, which is released when the root cells are crushed. Unlike chile heat, it hits the nose more than the tongue.",
+    "storageTip": "Refrigerate whole root for 1-2 months. Once grated, use quickly — flavor fades fast."
+  },
+  {
+    "id": "malanga",
+    "name": "Malanga",
+    "category": "vegetable",
+    "emoji": "🥔",
+    "colorHex": "#A0522D",
+    "iconAsset": "icon_malanga",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Brown hairy skin, similar to taro. No soft spots.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Very firm and heavy.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Malanga is a staple root in Cuban and Caribbean cuisine, often used in soups and fried into chips.",
+    "storageTip": "Store in a cool, dry place for up to 2 weeks. Must be cooked before eating."
+  },
+  {
+    "id": "boniato",
+    "name": "Boniato",
+    "category": "vegetable",
+    "emoji": "🍠",
+    "colorHex": "#CD853F",
+    "iconAsset": "icon_boniato",
+    "seasons": [
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Red-purple skin with white flesh. No cracks or sprouts.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm and heavy. Avoid soft spots.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Boniato (white sweet potato) is drier and fluffier than orange sweet potatoes, making it popular in Latin American and Asian cuisines.",
+    "storageTip": "Do not refrigerate. Store in cool, dry place for 1-2 weeks. More perishable than regular sweet potatoes."
+  },
+  {
+    "id": "sapodilla",
+    "name": "Sapodilla",
+    "category": "fruit",
+    "emoji": "🟤",
+    "colorHex": "#8B6914",
+    "iconAsset": "icon_sapodilla",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "region": "la_tropical",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "region": "ap_south",
+        "months": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "region": "ap_southeast",
+        "months": [
+          12,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "Gives to gentle pressure when ripe, like a kiwi.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "Sandy brown skin, slightly rough.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Sapodilla trees produce chicle, the original base for chewing gum. The Aztecs and Mayans chewed chicle centuries ago.",
+    "storageTip": "Ripen at room temperature. Refrigerate ripe fruit for 2-3 days."
+  },
+  {
+    "id": "chili_de_arbol",
+    "name": "Chile de Arbol",
+    "category": "vegetable",
+    "emoji": "🌶️",
+    "colorHex": "#CC0000",
+    "iconAsset": "icon_chili_de_arbol",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright red and slim. Dried ones should be unbroken.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm when fresh, crisp when dried.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Chile de arbol means 'tree chile' because the plant grows tall and woody like a small tree.",
+    "storageTip": "Fresh: refrigerate for 1-2 weeks. Dried: store in airtight container for 6+ months."
+  },
+  {
+    "id": "guaje",
+    "name": "Guaje",
+    "category": "vegetable",
+    "emoji": "🫛",
+    "colorHex": "#8B0000",
+    "iconAsset": "icon_guaje",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          9,
+          10,
+          11,
+          12,
+          1
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Flat pods with visible seeds. Red or green varieties.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Pods should be firm with plump seeds inside.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Guaje seeds (huaxes) have been eaten in Mexico since pre-Columbian times and Oaxaca is named after the Nahuatl word for guaje.",
+    "storageTip": "Refrigerate in pods for up to a week. Shelled seeds freeze well."
+  },
+  {
+    "id": "verdolaga",
+    "name": "Verdolaga (Purslane)",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#3CB371",
+    "iconAsset": "icon_verdolaga",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "region": "na_warm",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "region": "eu_mediterranean",
+        "months": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Thick, succulent, jade-green leaves and reddish stems.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Crisp and juicy, not wilted.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Purslane has the highest omega-3 fatty acid content of any leafy green and is the most widely distributed weed on earth.",
+    "storageTip": "Refrigerate wrapped in damp paper towel for 3-4 days. Very perishable."
+  },
+  {
+    "id": "huauzontle",
+    "name": "Huauzontle",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#2E8B57",
+    "iconAsset": "icon_huauzontle",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green flower clusters on thin stalks.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Tender stems that snap easily.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Huauzontle was a sacred food of the Aztecs, often used as tribute. It is typically battered and fried with cheese.",
+    "storageTip": "Very perishable. Use within 2-3 days. Refrigerate in a damp towel."
+  },
+  {
+    "id": "xoconostle",
+    "name": "Xoconostle",
+    "category": "fruit",
+    "emoji": "🌵",
+    "colorHex": "#C71585",
+    "iconAsset": "icon_xoconostle",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Pink-purple skin with acidic green flesh. Firmer than sweet tuna.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Firm, not soft like sweet prickly pear.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Xoconostle is the sour cousin of the prickly pear and is used in mole de olla and salsas throughout central Mexico.",
+    "storageTip": "Refrigerate for up to 3 weeks — much longer-lasting than sweet tuna."
+  },
+  {
+    "id": "quelite",
+    "name": "Quelites",
+    "category": "vegetable",
+    "emoji": "🌿",
+    "colorHex": "#006400",
+    "iconAsset": "icon_quelite",
+    "seasons": [
+      {
+        "region": "la_mexico",
+        "months": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Look",
+        "description": "Bright green tender leaves and shoots. Various species.",
+        "sfSymbol": "eye.fill"
+      },
+      {
+        "title": "Feel",
+        "description": "Tender and crisp, similar to spinach.",
+        "sfSymbol": "hand.raised.fill"
+      }
+    ],
+    "funFact": "Quelites is a catch-all term for dozens of edible wild greens in Mexican cuisine, eaten since pre-Hispanic times.",
+    "storageTip": "Very perishable. Refrigerate wrapped in damp towel and use within 2-3 days."
+  },
+  {
+    "id": "chiles_en_nogada_walnut",
+    "name": "Walnut",
+    "category": "fruit",
+    "emoji": "🌰",
+    "colorHex": "#5C4033",
+    "iconAsset": "icon_walnut",
+    "seasons": [
+      {
+        "region": "na_northeast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "na_west_coast",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "eu_central",
+        "months": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "region": "la_mexico",
+        "months": [
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "ripenessTips": [
+      {
+        "title": "Feel",
+        "description": "In-shell: heavy for size, no rattling. Shelled: plump and not shriveled.",
+        "sfSymbol": "hand.raised.fill"
+      },
+      {
+        "title": "Look",
+        "description": "No cracks or holes in the shell.",
+        "sfSymbol": "eye.fill"
+      }
+    ],
+    "funFact": "Fresh green walnuts (nuez de castilla) are essential for chiles en nogada, Mexico's patriotic dish served every September.",
+    "storageTip": "In-shell: cool dry place for 3 months. Shelled: refrigerate for 6 months or freeze for a year."
   }
 ]

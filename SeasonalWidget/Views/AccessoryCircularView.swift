@@ -4,19 +4,24 @@ import WidgetKit
 struct AccessoryCircularView: View {
     let entry: SeasonalWidgetEntry
 
+    private var totalProduce: Int {
+        SeasonalData.shared.allProduce.count
+    }
+
     var body: some View {
-        ZStack {
-            AccessoryWidgetBackground()
-            if let item = entry.highlightedItem {
-                VStack(spacing: 0) {
-                    Text(item.emoji)
-                        .font(.title3)
-                    Text(item.name)
-                        .font(.system(size: 8))
-                        .lineLimit(1)
-                        .minimumScaleFactor(0.5)
-                }
-            } else {
+        if let item = entry.highlightedItem {
+            Gauge(value: Double(entry.inSeasonItems.count),
+                  in: 0...Double(max(totalProduce, 1))) {
+                Text(item.emoji)
+            } currentValueLabel: {
+                Text(item.emoji)
+                    .font(.system(size: 20))
+            }
+            .gaugeStyle(.accessoryCircularCapacity)
+            .widgetAccentable()
+        } else {
+            ZStack {
+                AccessoryWidgetBackground()
                 Image(systemName: "leaf.fill")
             }
         }

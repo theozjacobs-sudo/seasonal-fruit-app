@@ -3,10 +3,30 @@ import SwiftUI
 struct ProduceCardView: View {
     let item: ProduceItem
 
+    private var currentRegion: ProduceRegion {
+        SharedDataManager.shared.currentRegion
+    }
+
+    private var currentMonth: Int {
+        Calendar.current.component(.month, from: Date())
+    }
+
     var body: some View {
         VStack(spacing: 6) {
-            Text(item.emoji)
-                .font(.system(size: 36))
+            ZStack(alignment: .topTrailing) {
+                ProduceIconView(item: item, size: 36)
+
+                if item.isPeakSeason(for: currentRegion, month: currentMonth) {
+                    Text("Peak")
+                        .font(.system(size: 8, weight: .bold))
+                        .foregroundStyle(.white)
+                        .padding(.horizontal, 4)
+                        .padding(.vertical, 2)
+                        .background(Color.orange, in: Capsule())
+                        .offset(x: 8, y: -4)
+                }
+            }
+
             Text(item.name)
                 .font(.caption)
                 .fontWeight(.medium)

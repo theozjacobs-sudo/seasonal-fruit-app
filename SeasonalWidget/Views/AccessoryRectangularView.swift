@@ -5,18 +5,25 @@ struct AccessoryRectangularView: View {
     let entry: SeasonalWidgetEntry
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 2) {
-            Text("In Season")
-                .font(.headline)
-                .widgetAccentable()
+        HStack(spacing: 8) {
+            VStack(alignment: .leading, spacing: 0) {
+                Text("\(entry.inSeasonItems.count)")
+                    .font(.system(size: 28, weight: .bold, design: .rounded))
+                    .widgetAccentable()
+                Text("in season")
+                    .font(.caption2)
+                    .foregroundStyle(.secondary)
+            }
 
-            HStack(spacing: 6) {
+            Divider()
+
+            VStack(alignment: .leading, spacing: 2) {
                 ForEach(Array(entry.inSeasonItems.prefix(3))) { item in
-                    HStack(spacing: 2) {
+                    HStack(spacing: 3) {
                         Text(item.emoji)
-                            .font(.caption2)
+                            .font(.system(size: 10))
                         Text(item.name)
-                            .font(.caption2)
+                            .font(.system(size: 10))
                             .lineLimit(1)
                     }
                 }

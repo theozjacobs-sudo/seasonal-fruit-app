@@ -60,6 +60,11 @@ final class LocationService: NSObject, ObservableObject {
                         "South Carolina", "New Mexico", "Nevada",
                         "Hawaii"]
             if warm.contains(adminArea) { return .northAmericaWarm }
+            let northeast = ["New York", "New Jersey", "Connecticut",
+                             "Massachusetts", "Rhode Island", "Pennsylvania",
+                             "Delaware", "Maryland", "Vermont",
+                             "New Hampshire", "Maine"]
+            if northeast.contains(adminArea) { return .northeastUS }
             return .northAmericaTemperate
         case "CA":
             return .northAmericaTemperate

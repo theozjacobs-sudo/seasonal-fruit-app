@@ -5,8 +5,7 @@ struct ComingSoonChip: View {
 
     var body: some View {
         HStack(spacing: 6) {
-            Text(item.emoji)
-                .font(.body)
+            ProduceIconView(item: item, size: 20)
             Text(item.name)
                 .font(.caption)
                 .fontWeight(.medium)

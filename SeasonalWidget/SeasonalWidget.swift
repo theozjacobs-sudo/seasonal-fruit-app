@@ -16,7 +16,8 @@ struct SeasonalWidget: Widget {
             .systemMedium,
             .systemLarge,
             .accessoryCircular,
-            .accessoryRectangular
+            .accessoryRectangular,
+            .accessoryInline
         ])
     }
 }

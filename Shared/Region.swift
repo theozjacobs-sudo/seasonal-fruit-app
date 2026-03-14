@@ -5,6 +5,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
     case northAmericaTemperate = "na_temperate"
     case northAmericaWarm = "na_warm"
     case northAmericaWestCoast = "na_west_coast"
+    case northeastUS = "na_northeast"
 
     // Europe
     case northernEurope = "eu_northern"
@@ -34,6 +35,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
         case .northAmericaTemperate: return "North America (Temperate)"
         case .northAmericaWarm: return "North America (Warm)"
         case .northAmericaWestCoast: return "North America (West Coast)"
+        case .northeastUS: return "Northeast US (NYC & Long Island)"
         case .northernEurope: return "Northern Europe"
         case .mediterraneanEurope: return "Mediterranean Europe"
         case .centralEurope: return "Central Europe"
@@ -52,7 +54,7 @@ enum ProduceRegion: String, Codable, CaseIterable, Identifiable {
 
     var flag: String {
         switch self {
-        case .northAmericaTemperate, .northAmericaWarm, .northAmericaWestCoast: return "\u{1F1FA}\u{1F1F8}"
+        case .northAmericaTemperate, .northAmericaWarm, .northAmericaWestCoast, .northeastUS: return "\u{1F1FA}\u{1F1F8}"
         case .northernEurope: return "\u{1F1EC}\u{1F1E7}"
         case .mediterraneanEurope: return "\u{1F1EE}\u{1F1F9}"
         case .centralEurope: return "\u{1F1E9}\u{1F1EA}"

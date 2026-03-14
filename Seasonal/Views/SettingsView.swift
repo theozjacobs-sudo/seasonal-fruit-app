@@ -3,8 +3,10 @@ import WidgetKit
 
 struct SettingsView: View {
     @EnvironmentObject var locationService: LocationService
+    @ObservedObject private var favorites = FavoritesManager.shared
     @State private var useManualRegion = false
     @State private var selectedRegion: ProduceRegion = .northAmericaTemperate
+    @State private var monthlyNotifications = false
 
     var body: some View {
         Form {
@@ -39,9 +41,19 @@ struct SettingsView: View {
                 }
             }
 
+            Section("Notifications") {
+                Toggle("Monthly Season Updates", isOn: $monthlyNotifications)
+                if monthlyNotifications {
+                    Text("Get notified on the 1st of each month about new produce in season.")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+
             Section("About") {
-                LabeledContent("Version", value: "1.0.0")
+                LabeledContent("Version", value: "1.1.0")
                 LabeledContent("Produce Items", value: "\(SeasonalData.shared.allProduce.count)")
+                LabeledContent("Favorites", value: "\(favorites.favoriteIDs.count)")
             }
         }
         .navigationTitle("Settings")
@@ -52,6 +64,7 @@ struct SettingsView: View {
                let region = ProduceRegion(rawValue: raw) {
                 selectedRegion = region
             }
+            monthlyNotifications = NotificationManager.shared.isEnabled
         }
         .onChange(of: useManualRegion) { _, enabled in
             SharedDataManager.shared.saveManualOverride(selectedRegion, enabled: enabled)
@@ -61,6 +74,13 @@ struct SettingsView: View {
             if useManualRegion {
                 SharedDataManager.shared.saveManualOverride(region, enabled: true)
                 WidgetCenter.shared.reloadAllTimelines()
+            }
+        }
+        .onChange(of: monthlyNotifications) { _, enabled in
+            if enabled {
+                NotificationManager.shared.requestPermissionAndEnable()
+            } else {
+                NotificationManager.shared.isEnabled = false
             }
         }
     }

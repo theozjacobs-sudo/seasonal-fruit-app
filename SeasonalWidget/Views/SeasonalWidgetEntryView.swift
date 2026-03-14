@@ -17,6 +17,8 @@ struct SeasonalWidgetEntryView: View {
             AccessoryCircularView(entry: entry)
         case .accessoryRectangular:
             AccessoryRectangularView(entry: entry)
+        case .accessoryInline:
+            AccessoryInlineView(entry: entry)
         default:
             SmallWidgetView(entry: entry)
         }
