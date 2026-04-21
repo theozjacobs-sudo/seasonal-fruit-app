@@ -2,13 +2,10 @@ import SwiftUI
 
 struct ProduceCardView: View {
     let item: ProduceItem
+    var month: Int = Calendar.current.component(.month, from: Date())
 
     private var currentRegion: ProduceRegion {
         SharedDataManager.shared.currentRegion
-    }
-
-    private var currentMonth: Int {
-        Calendar.current.component(.month, from: Date())
     }
 
     var body: some View {
@@ -16,7 +13,7 @@ struct ProduceCardView: View {
             ZStack(alignment: .topTrailing) {
                 ProduceIconView(item: item, size: 36)
 
-                if item.isPeakSeason(for: currentRegion, month: currentMonth) {
+                if item.isPeakSeason(for: currentRegion, month: month) {
                     Text("Peak")
                         .font(.system(size: 8, weight: .bold))
                         .foregroundStyle(.white)
